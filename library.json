@@ -1,6 +1,6 @@
 {
-  "version": 1779472032131,
-  "exportedAt": "2026-05-22T17:47:12.131Z",
+  "version": 1779472041828,
+  "exportedAt": "2026-05-22T17:47:21.828Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -101,7 +101,7 @@
     },
     {
       "id": "crypt-custodian-1",
-      "title": "Crypt custodian",
+      "title": "Crypt Custodian",
       "status": "Completed",
       "rating": 7,
       "date": "2025-08-13",
