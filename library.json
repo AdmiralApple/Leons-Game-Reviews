@@ -1,7 +1,7 @@
 {
-  "version": 1779395578963,
-  "exportedAt": "2026-05-21T20:32:58.963Z",
-  "note": "Edit through the app and use 'Save to library.json' to update this file.",
+  "version": 1779420091645,
+  "exportedAt": "2026-05-22T03:21:31.645Z",
+  "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
       "id": "baulders-gate-0",
@@ -351,7 +351,7 @@
       "id": "tactical-breach-wizards-43",
       "title": "Tactical Breach Wizards",
       "status": "Completed",
-      "rating": null,
+      "rating": 10,
       "date": "2026-04-22",
       "feelings": "Almost considered dropping the other 10/10s to 9/10.  This game does everything perfectly, from level design and gameplay to out-of-combat character building.  It treats its player as intelligent and benefits for it.  A gold standard for video games."
     },
@@ -359,7 +359,7 @@
       "id": "highfleet-44",
       "title": "Highfleet",
       "status": "Dropped",
-      "rating": 3,
+      "rating": 2,
       "date": "2026-05-06",
       "feelings": "Game has a nice aesthetic, but is lacking in many key parts."
     },
@@ -513,7 +513,7 @@
       "status": "Completed",
       "rating": 10,
       "date": "2017-11-18",
-      "feelings": null
+      "feelings": "It was the golden era of video games, and one of the greatest open world games of the decade dropped.  Skyrim is Skyrim.  I pray they do not screw up ES6."
     },
     {
       "id": "orwell-64",
@@ -1014,7 +1014,7 @@
     {
       "id": "berry-bury-berry-126",
       "title": "Berry Bury Berry",
-      "status": "Plan to",
+      "status": "Playing",
       "rating": null,
       "date": null,
       "feelings": null
