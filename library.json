@@ -1,8 +1,16 @@
 {
-  "version": 1779471209087,
-  "exportedAt": "2026-05-22T17:33:29.087Z",
+  "version": 1779471317603,
+  "exportedAt": "2026-05-22T17:35:17.603Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Dropped",
+      "title": "Shattered Pixel Dungeon",
+      "rating": 2,
+      "date": "2025-12-07",
+      "feelings": "It just, was NOT fun.  It seems theres some cool mechanics here but... Woof.  Just trying to get through the opening is a slog.",
+      "id": "shattered-pixel-dungeon-mph79x2t"
+    },
     {
       "status": "Plan to",
       "title": "Slay the Princess",
