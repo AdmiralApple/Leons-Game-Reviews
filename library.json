@@ -1,8 +1,16 @@
 {
-  "version": 1779471437427,
-  "exportedAt": "2026-05-22T17:37:17.427Z",
+  "version": 1779471548935,
+  "exportedAt": "2026-05-22T17:39:08.935Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Luck be a Landlord",
+      "rating": 8,
+      "date": "2025-12-02",
+      "feelings": "A great roguelike!  Nice simple graphics, cool concept executed well.  I feel the quality has deteriorated in the last few updates before it came out of early access, but given it was before Balatro, i think it did gamification really well.",
+      "id": "luck-be-a-landlord-mph7evk7"
+    },
     {
       "status": "Completed",
       "title": "Guilty as Sock",
