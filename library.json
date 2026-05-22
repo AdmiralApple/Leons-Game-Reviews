@@ -1,8 +1,16 @@
 {
-  "version": 1779471767511,
-  "exportedAt": "2026-05-22T17:42:47.511Z",
+  "version": 1779471943275,
+  "exportedAt": "2026-05-22T17:45:43.275Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Dropped",
+      "title": "Blue Prince",
+      "rating": 9,
+      "date": "2025-07-02",
+      "feelings": "This is the greatest game I will ever drop.  Blue prince has incredible puzzle mechanics, exceptionally enjoyable runs, and a knack for keeping you pulled in.  Sadly where it falls short is late-game puzzles.  I am simply not smart enough to figure out many of the post blue-crown puzzles.  I wish there were more letters given to the player to help them along because boy did I need it.",
+      "id": "blue-prince-mph7nbt9"
+    },
     {
       "status": "Completed",
       "title": "Animal Well",
