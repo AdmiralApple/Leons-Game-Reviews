@@ -1,8 +1,16 @@
 {
-  "version": 1779471548935,
-  "exportedAt": "2026-05-22T17:39:08.935Z",
+  "version": 1779471654028,
+  "exportedAt": "2026-05-22T17:40:54.028Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Dropped",
+      "title": "Dredgers",
+      "rating": 6,
+      "date": "2025-12-02",
+      "feelings": "Dredgers has a lot of cool things going on, and there is a chance I come back to it, but the game lacks a clear goal meaning every run is done for the sake of doing the run.  Once I had that golden run that got me through most the levels, I felt I had experienced most of what the game had to offer.",
+      "id": "dredgers-mph7h4nj"
+    },
     {
       "status": "Completed",
       "title": "Luck be a Landlord",
