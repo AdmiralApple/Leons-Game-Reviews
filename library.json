@@ -1,8 +1,16 @@
 {
-  "version": 1779434625992,
-  "exportedAt": "2026-05-22T07:23:45.992Z",
+  "version": 1779470813869,
+  "exportedAt": "2026-05-22T17:26:53.869Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Dropped",
+      "title": "Game Builder Tycoon",
+      "rating": 4,
+      "date": "2026-04-10",
+      "feelings": "I tried playing this to feel what it was like to play Game Dev Tycoon, and it kinda worked, but this game just doesnt have the charm or balance.  No matter how well you do, it feels like youre always behind competitors and too late to do any big stuff before the end year hits.",
+      "id": "game-builder-tycoon-mph6z4dy"
+    },
     {
       "status": "Playing",
       "title": "Subnautica 2",
