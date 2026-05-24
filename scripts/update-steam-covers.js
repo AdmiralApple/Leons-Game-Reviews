@@ -7,6 +7,8 @@ const coversPath = path.join(root, 'steam-covers.json');
 
 const steamOverrides = {
   'baulders gate': { appid: 1086940, name: "Baldur's Gate 3" },
+  'psychonauts 1': { appid: 3830, name: 'Psychonauts' },
+  'psyconauts 1': { appid: 3830, name: 'Psychonauts' },
   'portal 1': { appid: 400, name: 'Portal' },
   'witness': { appid: 210970, name: 'The Witness' },
   'skyrim': { appid: 489830, name: 'The Elder Scrolls V: Skyrim Special Edition' },
@@ -22,6 +24,7 @@ const steamOverrides = {
   'osiris new dawn': { appid: 402710, name: 'Osiris: New Dawn' },
   'borderlands pre sequal': { appid: 261640, name: 'Borderlands: The Pre-Sequel' },
   'norwoord suite': { appid: 696480, name: 'The Norwood Suite' },
+  'superhot mcd': { appid: 690040, name: 'SUPERHOT: MIND CONTROL DELETE' },
   'battleblock theatre': { appid: 238460, name: 'BattleBlock Theater' },
   'trucking simulator 2': { appid: 227300, name: 'Euro Truck Simulator 2' },
   'farming simulator 2015': { appid: 313160, name: 'Farming Simulator 15' },
@@ -55,6 +58,10 @@ function steamHeaderUrl(appid) {
   return `https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/${appid}/header.jpg`;
 }
 
+function steamAkamaiHeaderUrl(appid) {
+  return `https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/${appid}/header.jpg`;
+}
+
 async function fetchJson(url) {
   const response = await fetch(url, {
     headers: {
@@ -64,6 +71,55 @@ async function fetchJson(url) {
   });
   if (!response.ok) throw new Error(`Steam returned ${response.status}`);
   return response.json();
+}
+
+async function imageExists(url) {
+  if (!url) return false;
+  try {
+    let response = await fetch(url, { method: 'HEAD' });
+    if (response.ok) return true;
+    if (response.status !== 405 && response.status !== 403) return false;
+
+    response = await fetch(url, { headers: { range: 'bytes=0-0' } });
+    return response.ok;
+  } catch {
+    return false;
+  }
+}
+
+async function getAppDetails(appid) {
+  const data = await fetchJson(`https://store.steampowered.com/api/appdetails?appids=${appid}&filters=basic`);
+  const details = data && data[String(appid)];
+  return details && details.success ? details.data : null;
+}
+
+async function resolveSteamGame(appid, fallbackName) {
+  const details = await getAppDetails(appid);
+  const candidates = [
+    details && details.header_image,
+    steamHeaderUrl(appid),
+    steamAkamaiHeaderUrl(appid),
+  ].filter(Boolean);
+
+  for (const url of candidates) {
+    if (await imageExists(url)) {
+      return {
+        appid,
+        name: (details && details.name) || fallbackName,
+        url,
+        verified: true,
+      };
+    }
+  }
+
+  return null;
+}
+
+async function repairCoverEntry(entry) {
+  if (!entry || !entry.appid) return entry || null;
+  if (entry.verified && await imageExists(entry.url)) return entry;
+  const repaired = await resolveSteamGame(entry.appid, entry.name);
+  return repaired || null;
 }
 
 async function lookupSteamGame(title) {
@@ -94,7 +150,9 @@ async function lookupSteamGame(title) {
   for (const search of searches) {
     try {
       const best = (await search()).sort((a, b) => b.score - a.score)[0];
-      if (best && best.score >= 20 && best.appid) return best;
+      if (best && best.score >= 20 && best.appid) {
+        return await resolveSteamGame(best.appid, best.name);
+      }
     } catch (error) {
       console.warn(`Steam lookup failed for "${title}": ${error.message}`);
     }
@@ -125,16 +183,18 @@ async function main() {
 
     if (steamOverrides[key]) {
       const override = steamOverrides[key];
-      output.covers[key] = {
-        appid: override.appid,
-        name: override.name,
-        url: steamHeaderUrl(override.appid),
-      };
+      output.covers[key] = await resolveSteamGame(override.appid, override.name);
       console.log(`= ${game.title} -> ${override.name} (${override.appid})`);
       continue;
     }
 
-    if (output.covers[key]) continue;
+    if (output.covers[key]) {
+      const repaired = await repairCoverEntry(output.covers[key]);
+      if (repaired) {
+        output.covers[key] = repaired;
+        continue;
+      }
+    }
 
     const result = await lookupSteamGame(game.title);
     if (result) {
