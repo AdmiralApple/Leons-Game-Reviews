@@ -13,6 +13,7 @@ const steamOverrides = {
   'witness': { appid: 210970, name: 'The Witness' },
   'skyrim': { appid: 489830, name: 'The Elder Scrolls V: Skyrim Special Edition' },
   'city game studio': { appid: 726840, name: 'City Game Studio' },
+  'our adventuring guild': { appid: 2026000, name: 'Our Adventurer Guild' },
   'dyson sphere progam': { appid: 1366540, name: 'Dyson Sphere Program' },
   'pheonix point': { appid: 839770, name: 'Phoenix Point' },
   'colonyship': { appid: 648410, name: 'Colony Ship: A Post-Earth Role Playing Game' },
@@ -169,6 +170,12 @@ async function readExistingCovers() {
   }
 }
 
+function writeCover(covers, game, entry) {
+  const key = normalizeTitle(game.title);
+  if (key) covers[key] = entry;
+  if (game.id) covers[game.id] = entry;
+}
+
 async function main() {
   const library = JSON.parse(await fs.readFile(libraryPath, 'utf8'));
   const games = Array.isArray(library.games) ? library.games : [];
@@ -183,30 +190,32 @@ async function main() {
 
     if (steamOverrides[key]) {
       const override = steamOverrides[key];
-      output.covers[key] = await resolveSteamGame(override.appid, override.name);
+      writeCover(output.covers, game, await resolveSteamGame(override.appid, override.name));
       console.log(`= ${game.title} -> ${override.name} (${override.appid})`);
       continue;
     }
 
-    if (output.covers[key]) {
-      const repaired = await repairCoverEntry(output.covers[key]);
+    const existing = output.covers[game.id] || output.covers[key];
+    if (existing) {
+      const repaired = await repairCoverEntry(existing);
       if (repaired) {
-        output.covers[key] = repaired;
+        writeCover(output.covers, game, repaired);
         continue;
       }
     }
 
     const result = await lookupSteamGame(game.title);
     if (result) {
-      output.covers[key] = {
+      writeCover(output.covers, game, {
         appid: result.appid,
         name: result.name,
         url: result.url,
-      };
+        verified: result.verified,
+      });
       added++;
       console.log(`+ ${game.title} -> ${result.name} (${result.appid})`);
     } else {
-      output.covers[key] = null;
+      writeCover(output.covers, game, null);
       console.log(`- ${game.title}`);
     }
 
