@@ -1,6 +1,6 @@
 {
-  "version": 1779569114485,
-  "exportedAt": "2026-05-23T20:45:14.485Z",
+  "version": 1779599565390,
+  "exportedAt": "2026-05-24T05:12:45.390Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -1166,10 +1166,10 @@
     {
       "id": "berry-bury-berry-126",
       "title": "Berry Bury Berry",
-      "status": "Playing",
-      "rating": null,
-      "date": null,
-      "feelings": null
+      "status": "Completed",
+      "rating": 7,
+      "date": "2026-05-24",
+      "feelings": "Gameplay can get a little repetitive mid-game, but overall was enjoyable.  Good ending too."
     },
     {
       "id": "pony-island-127",
