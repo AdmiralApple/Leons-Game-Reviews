@@ -1,6 +1,6 @@
 {
-  "version": 1779692342490,
-  "exportedAt": "2026-05-25T06:59:02.490Z",
+  "version": 1779692380926,
+  "exportedAt": "2026-05-25T06:59:40.926Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -1143,7 +1143,7 @@
       "id": "holy-potatoes-a-weapon-shop-123",
       "title": "Holy Potatoes! A Weapon Shop?!",
       "status": "Dropped",
-      "rating": 5,
+      "rating": 4,
       "date": "2016-08-19",
       "feelings": "This game had fine mechanics, and a cute charm, but did little else."
     },
