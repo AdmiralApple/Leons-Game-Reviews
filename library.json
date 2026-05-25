@@ -1,6 +1,6 @@
 {
-  "version": 1779691901655,
-  "exportedAt": "2026-05-25T06:51:41.655Z",
+  "version": 1779692136405,
+  "exportedAt": "2026-05-25T06:55:36.405Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -1055,7 +1055,7 @@
       "id": "broken-age-111",
       "title": "Broken Age",
       "status": "Completed",
-      "rating": 9,
+      "rating": 8,
       "date": "2016-11-27",
       "feelings": "A great point and click adventure game with a cool world and nice characters.  Has a place in my heart.  Small, but a place."
     },
