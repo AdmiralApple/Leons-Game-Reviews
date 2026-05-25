@@ -1,6 +1,6 @@
 {
-  "version": 1779692251960,
-  "exportedAt": "2026-05-25T06:57:31.960Z",
+  "version": 1779692270310,
+  "exportedAt": "2026-05-25T06:57:50.310Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -799,7 +799,7 @@
       "id": "the-unfinished-swan-80",
       "title": "The Unfinished Swan",
       "status": "Completed",
-      "rating": 8,
+      "rating": 7,
       "date": "2020-09-12",
       "feelings": "Another short but sweet game, love games like this."
     },
