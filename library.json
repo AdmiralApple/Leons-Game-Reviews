@@ -1,6 +1,6 @@
 {
-  "version": 1779692320284,
-  "exportedAt": "2026-05-25T06:58:40.284Z",
+  "version": 1779692342490,
+  "exportedAt": "2026-05-25T06:59:02.490Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -22,7 +22,7 @@
     {
       "status": "Completed",
       "title": "9 Kings",
-      "rating": 6,
+      "rating": 5,
       "date": "2025-08-18",
       "feelings": "It has fun combinations and enjoyable gameplay, but not enough variety.",
       "id": "9-kings-mphdggde"
