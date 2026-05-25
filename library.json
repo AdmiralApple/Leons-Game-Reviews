@@ -1,6 +1,6 @@
 {
-  "version": 1779692233346,
-  "exportedAt": "2026-05-25T06:57:13.346Z",
+  "version": 1779692251960,
+  "exportedAt": "2026-05-25T06:57:31.960Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -183,7 +183,7 @@
       "id": "runescape-2",
       "title": "runescape",
       "status": "Dropped",
-      "rating": 8,
+      "rating": 5,
       "date": null,
       "feelings": "Fun with friends!  Kind of tedius doing it solo"
     },
