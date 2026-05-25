@@ -1,6 +1,6 @@
 {
-  "version": 1779692270310,
-  "exportedAt": "2026-05-25T06:57:50.310Z",
+  "version": 1779692289668,
+  "exportedAt": "2026-05-25T06:58:09.668Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -415,7 +415,7 @@
       "id": "dyson-sphere-progam-32",
       "title": "Dyson Sphere Progam",
       "status": "Dropped",
-      "rating": 7,
+      "rating": 5,
       "date": null,
       "feelings": "Just doesn’t do it for me like factorio does.  Modularity seems very difficult and input/ooutputs on machines is unclear."
     },
