@@ -1,6 +1,6 @@
 {
-  "version": 1779691825709,
-  "exportedAt": "2026-05-25T06:50:25.709Z",
+  "version": 1779691878654,
+  "exportedAt": "2026-05-25T06:51:18.654Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -156,11 +156,11 @@
       "id": "game-builder-tycoon-mph6z4dy"
     },
     {
-      "status": "Playing",
+      "status": "On Hold",
       "title": "Subnautica 2",
       "rating": null,
       "date": null,
-      "feelings": null,
+      "feelings": "Still in development, but so far its been a 9/10 for me.  Really good, especially with multiplayer!",
       "id": "subnautica-2-mpglfhg8"
     },
     {
