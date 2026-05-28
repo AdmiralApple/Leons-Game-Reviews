@@ -1,8 +1,16 @@
 {
-  "version": 1779861308078,
-  "exportedAt": "2026-05-27T05:55:08.078Z",
+  "version": 1779982148383,
+  "exportedAt": "2026-05-28T15:29:08.383Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Disco Elysium",
+      "rating": 10,
+      "date": "2019-12-10",
+      "feelings": "Disco Elysium is a well received game for a good reason.  The characters are great and the art style is wonderful.  The choices feel like they actually matter.",
+      "id": "disco-elysium-mppnesmk"
+    },
     {
       "status": "Plan to",
       "title": "Ori and the Will of the Wisps",
