@@ -1,8 +1,16 @@
 {
-  "version": 1780175070005,
-  "exportedAt": "2026-05-30T21:04:30.005Z",
+  "version": 1780297053649,
+  "exportedAt": "2026-06-01T06:57:33.649Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Librarian: Tidy Up the Arcane Library!",
+      "rating": 8,
+      "date": "2026-06-01",
+      "feelings": "Idk what happened.  I dumped 17 hours into it in like 3 days.  Going for the no magic run had me in a trance.  I didnt even have something playing in the background.  My brain was 100% logistics.  It was a pretty cool experience",
+      "id": "librarian-tidy-up-the-arcane-library-mpuuwb2o"
+    },
     {
       "status": "Completed",
       "title": "Crystal Project",
