@@ -1,8 +1,16 @@
 {
-  "version": 1780481398239,
-  "exportedAt": "2026-06-03T10:09:58.239Z",
+  "version": 1780481414655,
+  "exportedAt": "2026-06-03T10:10:14.655Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Plan to",
+      "title": "Hogwarts Legacy",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "hogwarts-legacy-mpxwnsxz"
+    },
     {
       "status": "Completed",
       "title": "Soulstone Survivors",
