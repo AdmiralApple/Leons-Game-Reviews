@@ -1,8 +1,16 @@
 {
-  "version": 1780481414655,
-  "exportedAt": "2026-06-03T10:10:14.655Z",
+  "version": 1780481473909,
+  "exportedAt": "2026-06-03T10:11:13.909Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "(the) Gnorp Apologue",
+      "rating": 8,
+      "date": "2024-01-03",
+      "feelings": "A fantastic incrimental game!  Cute graphics and satisfying gameplay.",
+      "id": "the-gnorp-apologue-mpxwp2nu"
+    },
     {
       "status": "Plan to",
       "title": "Hogwarts Legacy",
