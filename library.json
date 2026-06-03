@@ -1,8 +1,16 @@
 {
-  "version": 1780480226347,
-  "exportedAt": "2026-06-03T09:50:26.347Z",
+  "version": 1780480324230,
+  "exportedAt": "2026-06-03T09:52:04.230Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Inscryption",
+      "rating": 10,
+      "date": "2024-04-04",
+      "feelings": "A masterclass in theming, game design, and flavor.  Each act had its own structure, none fell short.  Act 1 is of course the main course that everyone fell in love with, but act 3 was my fan favorite.",
+      "id": "inscryption-mpxw0fkm"
+    },
     {
       "status": "Completed",
       "title": "Rabbit and Steel",
