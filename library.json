@@ -1,8 +1,16 @@
 {
-  "version": 1780702743170,
-  "exportedAt": "2026-06-05T23:39:03.170Z",
+  "version": 1780702859128,
+  "exportedAt": "2026-06-05T23:40:59.128Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Plan to",
+      "title": "Fearless Fantasy",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "fearless-fantasy-mq1ki47k"
+    },
     {
       "status": "Completed",
       "title": "VA-11 Hall-A: Cyberpunk Bartender Action",
