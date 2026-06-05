@@ -1,8 +1,16 @@
 {
-  "version": 1780703102258,
-  "exportedAt": "2026-06-05T23:45:02.258Z",
+  "version": 1780703188992,
+  "exportedAt": "2026-06-05T23:46:28.992Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "The Stanley Parable",
+      "rating": 9,
+      "date": "2019-03-16",
+      "feelings": "A truly one-of-a-kind narrative game.  I genuinely cannot think of a comparable game.  The amount of cute secrets on top of the main game kept things interesting as well.",
+      "id": "the-stanley-parable-mq1kp73w"
+    },
     {
       "status": "Completed",
       "title": "Passpartout: The Starving Artist",
