@@ -1,8 +1,16 @@
 {
-  "version": 1780703255783,
-  "exportedAt": "2026-06-05T23:47:35.783Z",
+  "version": 1780703325589,
+  "exportedAt": "2026-06-05T23:48:45.589Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Dropped",
+      "title": "Mutant Year Zero: Road to Eden",
+      "rating": 4,
+      "date": "2019-03-02",
+      "feelings": "When i saw that the chances to hit were locked to incriments of 25%, I knew this game was too simple, at least coming from something like Xcom.",
+      "id": "mutant-year-zero-road-to-eden-mq1ks4ie"
+    },
     {
       "status": "Completed",
       "title": "GemCraft - Chasing Shadows",
