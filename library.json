@@ -1,8 +1,16 @@
 {
-  "version": 1780703536776,
-  "exportedAt": "2026-06-05T23:52:16.776Z",
+  "version": 1780703599029,
+  "exportedAt": "2026-06-05T23:53:19.029Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Dropped",
+      "title": "Hand Simulator",
+      "rating": 1,
+      "date": null,
+      "feelings": "Inconsistent controls, terrible gameplay,  the gun glitched into the table and pulled the trigger.  Do not play this game. You cant eat pizza, and your arms can randomly disappear. All these bugs happened within 30 minutes of gameplay.",
+      "id": "hand-simulator-mq1kxzhq"
+    },
     {
       "status": "Completed",
       "title": "Gremlins vs Automatons",
