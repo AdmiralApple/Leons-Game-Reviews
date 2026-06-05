@@ -1,8 +1,16 @@
 {
-  "version": 1780702859128,
-  "exportedAt": "2026-06-05T23:40:59.128Z",
+  "version": 1780702972123,
+  "exportedAt": "2026-06-05T23:42:52.123Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "XCOM 2",
+      "rating": 9,
+      "date": "2019-04-09",
+      "feelings": "One of the top grid-based tactic games on the market.  Well balanced, and has mod support.",
+      "id": "xcom-2-mq1kkjrp"
+    },
     {
       "status": "Plan to",
       "title": "Fearless Fantasy",
