@@ -1,8 +1,16 @@
 {
-  "version": 1780703921799,
-  "exportedAt": "2026-06-05T23:58:41.799Z",
+  "version": 1780704077526,
+  "exportedAt": "2026-06-06T00:01:17.526Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Mages of Mystralia",
+      "rating": 7,
+      "date": "2018-09-19",
+      "feelings": "This game had a really unique spell combo system I wish more games would take inspiration from.  Good graphics too",
+      "id": "mages-of-mystralia-mq1l88pi"
+    },
     {
       "status": "Plan to",
       "title": ">observer_",
