@@ -1,6 +1,6 @@
 {
-  "version": 1780706812742,
-  "exportedAt": "2026-06-06T00:46:52.742Z",
+  "version": 1780865112759,
+  "exportedAt": "2026-06-07T20:45:12.759Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -196,11 +196,11 @@
       "id": "battle-chef-brigade-deluxe-mq1k4ssy"
     },
     {
-      "status": "Playing",
+      "status": "Dropped",
       "title": "Dorfromantik",
-      "rating": null,
-      "date": null,
-      "feelings": null,
+      "rating": 3,
+      "date": "2026-06-07",
+      "feelings": "A continuous slog of \"oh, well this piece will have to do\".  You all to rarely get that happy moment of getting the perfect piece for what you need.  Its always just a make-do.",
       "id": "dorfromantik-mpz7fuv1"
     },
     {
