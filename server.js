@@ -17,13 +17,16 @@ function scoreTitle(query, candidate) {
   if (c.startsWith(q) || q.startsWith(c)) return 80;
   if (c.includes(q) || q.includes(c)) return 60;
 
-  const qWords = new Set(q.split(' ').filter(Boolean));
-  const cWords = new Set(c.split(' ').filter(Boolean));
+  const stopWords = new Set(['a', 'an', 'and', 'are', 'be', 'for', 'in', 'is', 'of', 'on', 'or', 'the', 'to', 'with']);
+  const qWords = new Set(q.split(' ').filter(word => word && !stopWords.has(word)));
+  const cWords = new Set(c.split(' ').filter(word => word && !stopWords.has(word)));
   let overlap = 0;
   for (const word of qWords) {
     if (cWords.has(word)) overlap++;
   }
-  return overlap ? 20 + overlap * 8 : 0;
+  if (overlap >= 2) return 30 + overlap * 12;
+  if (overlap === 1 && qWords.size === 1) return 45;
+  return 0;
 }
 
 function steamHeaderUrl(appid) {
@@ -53,7 +56,7 @@ async function lookupSteamCover(title) {
     .map(item => ({ item, score: scoreTitle(title, item.name) }))
     .sort((a, b) => b.score - a.score)[0];
 
-  if (best && best.score >= 20) {
+  if (best && best.score >= 55) {
     return steamHeaderUrl(best.item.id) || best.item.tiny_image || null;
   }
 
@@ -63,7 +66,7 @@ async function lookupSteamCover(title) {
     .map(item => ({ item, score: scoreTitle(title, item.name) }))
     .sort((a, b) => b.score - a.score)[0];
 
-  return communityBest && communityBest.score >= 20
+  return communityBest && communityBest.score >= 55
     ? steamHeaderUrl(communityBest.item.appid)
     : null;
 }

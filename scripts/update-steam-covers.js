@@ -32,6 +32,7 @@ const steamOverrides = {
   'farming simulator 2017': { appid: 447020, name: 'Farming Simulator 17' },
   'farming simulator 2019': { appid: 787860, name: 'Farming Simulator 19' },
   'evoland 1': { appid: 233470, name: 'Evoland' },
+  'this is no cave': { appid: 2852760, name: 'This Is No Cave' },
 };
 
 function normalizeTitle(title) {
@@ -46,13 +47,16 @@ function scoreTitle(query, candidate) {
   if (c.startsWith(q) || q.startsWith(c)) return 80;
   if (c.includes(q) || q.includes(c)) return 60;
 
-  const qWords = new Set(q.split(' ').filter(Boolean));
-  const cWords = new Set(c.split(' ').filter(Boolean));
+  const stopWords = new Set(['a', 'an', 'and', 'are', 'be', 'for', 'in', 'is', 'of', 'on', 'or', 'the', 'to', 'with']);
+  const qWords = new Set(q.split(' ').filter(word => word && !stopWords.has(word)));
+  const cWords = new Set(c.split(' ').filter(word => word && !stopWords.has(word)));
   let overlap = 0;
   for (const word of qWords) {
     if (cWords.has(word)) overlap++;
   }
-  return overlap ? 20 + overlap * 8 : 0;
+  if (overlap >= 2) return 30 + overlap * 12;
+  if (overlap === 1 && qWords.size === 1) return 45;
+  return 0;
 }
 
 function steamHeaderUrl(appid) {
@@ -151,7 +155,7 @@ async function lookupSteamGame(title) {
   for (const search of searches) {
     try {
       const best = (await search()).sort((a, b) => b.score - a.score)[0];
-      if (best && best.score >= 20 && best.appid) {
+      if (best && best.score >= 55 && best.appid) {
         return await resolveSteamGame(best.appid, best.name);
       }
     } catch (error) {
@@ -181,7 +185,8 @@ async function main() {
   const games = Array.isArray(library.games) ? library.games : [];
   const output = await readExistingCovers();
   output.version = 1;
-  output.covers = output.covers && typeof output.covers === 'object' ? output.covers : {};
+  const existingCovers = output.covers && typeof output.covers === 'object' ? output.covers : {};
+  output.covers = {};
 
   let added = 0;
   for (const game of games) {
@@ -195,7 +200,7 @@ async function main() {
       continue;
     }
 
-    const existing = output.covers[game.id] || output.covers[key];
+    const existing = existingCovers[game.id] || existingCovers[key];
     if (existing) {
       const repaired = await repairCoverEntry(existing);
       if (repaired) {

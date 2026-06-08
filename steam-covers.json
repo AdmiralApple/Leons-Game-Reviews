@@ -1,8 +1,702 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-24T06:22:24.299Z",
+  "generatedAt": "2026-06-08T19:54:47.504Z",
   "covers": {
+    "let them trade": {
+      "appid": 1313290,
+      "name": "Let Them Trade",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313290/03febd9b7c531a5a685fc46c0f06a6f249a2e273/header.jpg?t=1777281294",
+      "verified": true
+    },
+    "let-them-trade-mq5lxlkm": {
+      "appid": 1313290,
+      "name": "Let Them Trade",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313290/03febd9b7c531a5a685fc46c0f06a6f249a2e273/header.jpg?t=1777281294",
+      "verified": true
+    },
+    "the tiny bang story": {
+      "appid": 96000,
+      "name": "The Tiny Bang Story",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/96000/header.jpg?t=1631292999",
+      "verified": true
+    },
+    "the-tiny-bang-story-mq5lszgf": {
+      "appid": 96000,
+      "name": "The Tiny Bang Story",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/96000/header.jpg?t=1631292999",
+      "verified": true
+    },
+    "ruiner": {
+      "appid": 464060,
+      "name": "RUINER",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464060/header.jpg?t=1708036132",
+      "verified": true
+    },
+    "ruiner-mq1muv7u": {
+      "appid": 464060,
+      "name": "RUINER",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464060/header.jpg?t=1708036132",
+      "verified": true
+    },
+    "kingsway": {
+      "appid": 588950,
+      "name": "Kingsway",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588950/header.jpg?t=1734680274",
+      "verified": true
+    },
+    "kingsway-mq1msb6n": {
+      "appid": 588950,
+      "name": "Kingsway",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588950/header.jpg?t=1734680274",
+      "verified": true
+    },
+    "ken follett s the pillars of the earth": {
+      "appid": 234270,
+      "name": "Ken Follett's The Pillars of the Earth",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234270/header.jpg?t=1777462547",
+      "verified": true
+    },
+    "ken-follett-s-the-pillars-of-the-earth-mq1mq36j": {
+      "appid": 234270,
+      "name": "Ken Follett's The Pillars of the Earth",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234270/header.jpg?t=1777462547",
+      "verified": true
+    },
+    "figment": {
+      "appid": 493540,
+      "name": "Figment",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493540/header.jpg?t=1729500541",
+      "verified": true
+    },
+    "figment-mq1lbj9n": {
+      "appid": 493540,
+      "name": "Figment",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493540/header.jpg?t=1729500541",
+      "verified": true
+    },
+    "little nightmares enhanced edition": null,
+    "little-nightmares-enhanced-edition-mq1lazcf": null,
+    "metal gear solid v the phantom pain": {
+      "appid": 287700,
+      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287700/header.jpg?t=1778872866",
+      "verified": true
+    },
+    "metal-gear-solid-v-the-phantom-pain-mq1l9yxq": {
+      "appid": 287700,
+      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287700/header.jpg?t=1778872866",
+      "verified": true
+    },
+    "mages of mystralia": {
+      "appid": 529660,
+      "name": "Mages of Mystralia",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529660/header.jpg?t=1763503339",
+      "verified": true
+    },
+    "mages-of-mystralia-mq1l88pi": {
+      "appid": 529660,
+      "name": "Mages of Mystralia",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529660/header.jpg?t=1763503339",
+      "verified": true
+    },
+    "observer": {
+      "appid": 514900,
+      "name": ">observer_",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/514900/5379fc21fe575030672dc6b02eb74869392668ec/header.jpg?t=1773839940",
+      "verified": true
+    },
+    "observer-mq1l4wjo": {
+      "appid": 514900,
+      "name": ">observer_",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/514900/5379fc21fe575030672dc6b02eb74869392668ec/header.jpg?t=1773839940",
+      "verified": true
+    },
+    "yonder the cloud catcher chronicles": {
+      "appid": 580200,
+      "name": "Yonder: The Cloud Catcher Chronicles",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/580200/header.jpg?t=1717123506",
+      "verified": true
+    },
+    "yonder-the-cloud-catcher-chronicles-mq1l23ay": {
+      "appid": 580200,
+      "name": "Yonder: The Cloud Catcher Chronicles",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/580200/header.jpg?t=1717123506",
+      "verified": true
+    },
+    "dragon cliff": {
+      "appid": 758190,
+      "name": "Dragon Cliff",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758190/header.jpg?t=1646649681",
+      "verified": true
+    },
+    "dragon-cliff-mq1kz612": {
+      "appid": 758190,
+      "name": "Dragon Cliff",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758190/header.jpg?t=1646649681",
+      "verified": true
+    },
+    "hand simulator": {
+      "appid": 657200,
+      "name": "Hand Simulator",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657200/80594aec56074fb966e08723cd036afe744ca712/header.jpg?t=1750397372",
+      "verified": true
+    },
+    "hand-simulator-mq1kxzhq": {
+      "appid": 657200,
+      "name": "Hand Simulator",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657200/80594aec56074fb966e08723cd036afe744ca712/header.jpg?t=1750397372",
+      "verified": true
+    },
+    "gremlins vs automatons": null,
+    "gremlins-vs-automatons-mq1kwnh1": null,
+    "turbo dismount": {
+      "appid": 263760,
+      "name": "Turbo Dismount™",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/263760/header.jpg?t=1758016503",
+      "verified": true
+    },
+    "turbo-dismount-mq1kvlgo": {
+      "appid": 263760,
+      "name": "Turbo Dismount™",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/263760/header.jpg?t=1758016503",
+      "verified": true
+    },
+    "cultist simulator": {
+      "appid": 718670,
+      "name": "Cultist Simulator",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/header.jpg?t=1761059623",
+      "verified": true
+    },
+    "cultist-simulator-mq1kuh7s": {
+      "appid": 718670,
+      "name": "Cultist Simulator",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/header.jpg?t=1761059623",
+      "verified": true
+    },
+    "antichamber": {
+      "appid": 219890,
+      "name": "Antichamber",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/header.jpg?t=1525832559",
+      "verified": true
+    },
+    "antichamber-mq1ku392": {
+      "appid": 219890,
+      "name": "Antichamber",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/header.jpg?t=1525832559",
+      "verified": true
+    },
+    "mutant year zero road to eden": {
+      "appid": 760060,
+      "name": "Mutant Year Zero: Road to Eden",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/header.jpg?t=1764698075",
+      "verified": true
+    },
+    "mutant-year-zero-road-to-eden-mq1ks4ie": {
+      "appid": 760060,
+      "name": "Mutant Year Zero: Road to Eden",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/header.jpg?t=1764698075",
+      "verified": true
+    },
+    "gemcraft chasing shadows": {
+      "appid": 296490,
+      "name": "GemCraft - Chasing Shadows",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/296490/header.jpg?t=1726580940",
+      "verified": true
+    },
+    "gemcraft-chasing-shadows-mq1kqmn9": {
+      "appid": 296490,
+      "name": "GemCraft - Chasing Shadows",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/296490/header.jpg?t=1726580940",
+      "verified": true
+    },
+    "the stanley parable": {
+      "appid": 221910,
+      "name": "The Stanley Parable",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221910/header.jpg?t=1765834020",
+      "verified": true
+    },
+    "the-stanley-parable-mq1kp73w": {
+      "appid": 221910,
+      "name": "The Stanley Parable",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221910/header.jpg?t=1765834020",
+      "verified": true
+    },
+    "passpartout the starving artist": {
+      "appid": 582550,
+      "name": "Passpartout: The Starving Artist",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582550/header.jpg?t=1762101268",
+      "verified": true
+    },
+    "passpartout-the-starving-artist-mq1knc6j": {
+      "appid": 582550,
+      "name": "Passpartout: The Starving Artist",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582550/header.jpg?t=1762101268",
+      "verified": true
+    },
+    "xcom 2": {
+      "appid": 268500,
+      "name": "XCOM® 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg?t=1772813016",
+      "verified": true
+    },
+    "xcom-2-mq1kkjrp": {
+      "appid": 268500,
+      "name": "XCOM® 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg?t=1772813016",
+      "verified": true
+    },
+    "fearless fantasy": {
+      "appid": 282100,
+      "name": "Fearless Fantasy",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282100/header.jpg?t=1725623379",
+      "verified": true
+    },
+    "fearless-fantasy-mq1ki47k": {
+      "appid": 282100,
+      "name": "Fearless Fantasy",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282100/header.jpg?t=1725623379",
+      "verified": true
+    },
+    "va 11 hall a cyberpunk bartender action": {
+      "appid": 447530,
+      "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/header.jpg?t=1730740610",
+      "verified": true
+    },
+    "va-11-hall-a-cyberpunk-bartender-action-mq1kfn40": {
+      "appid": 447530,
+      "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/header.jpg?t=1730740610",
+      "verified": true
+    },
+    "dave the diver": {
+      "appid": 1868140,
+      "name": "DAVE THE DIVER",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/81bdb3bce15d27ca1b4554a642d91096e89be229/header.jpg?t=1780558027",
+      "verified": true
+    },
+    "dave-the-diver-mq1k668j": {
+      "appid": 1868140,
+      "name": "DAVE THE DIVER",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/81bdb3bce15d27ca1b4554a642d91096e89be229/header.jpg?t=1780558027",
+      "verified": true
+    },
+    "battle chef brigade deluxe": {
+      "appid": 452570,
+      "name": "Battle Chef Brigade Deluxe",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/452570/header.jpg?t=1763397067",
+      "verified": true
+    },
+    "battle-chef-brigade-deluxe-mq1k4ssy": {
+      "appid": 452570,
+      "name": "Battle Chef Brigade Deluxe",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/452570/header.jpg?t=1763397067",
+      "verified": true
+    },
+    "dorfromantik": {
+      "appid": 1455840,
+      "name": "Dorfromantik",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/header.jpg?t=1780575985",
+      "verified": true
+    },
+    "dorfromantik-mpz7fuv1": {
+      "appid": 1455840,
+      "name": "Dorfromantik",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/header.jpg?t=1780575985",
+      "verified": true
+    },
+    "digimon story time stranger": {
+      "appid": 1984270,
+      "name": "Digimon Story Time Stranger",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/723bccb3bf302c7c065201b578fbc7030b4e3c41/header.jpg?t=1774577076",
+      "verified": true
+    },
+    "digimon-story-time-stranger-mpz7ff16": {
+      "appid": 1984270,
+      "name": "Digimon Story Time Stranger",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/723bccb3bf302c7c065201b578fbc7030b4e3c41/header.jpg?t=1774577076",
+      "verified": true
+    },
+    "abi dos": {
+      "appid": 2180700,
+      "name": "ABI-DOS",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2180700/header.jpg?t=1742366641",
+      "verified": true
+    },
+    "abi-dos-mpz7f82f": {
+      "appid": 2180700,
+      "name": "ABI-DOS",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2180700/header.jpg?t=1742366641",
+      "verified": true
+    },
+    "viewfinder": {
+      "appid": 1382070,
+      "name": "Viewfinder",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/a69eb56f73446624325dec8a4fe74dc4ae09fb96/header.jpg?t=1764842475",
+      "verified": true
+    },
+    "viewfinder-mpych4rt": {
+      "appid": 1382070,
+      "name": "Viewfinder",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/a69eb56f73446624325dec8a4fe74dc4ae09fb96/header.jpg?t=1764842475",
+      "verified": true
+    },
+    "strange horticulture": {
+      "appid": 1574580,
+      "name": "Strange Horticulture",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574580/header.jpg?t=1772459223",
+      "verified": true
+    },
+    "strange-horticulture-mpxx4qtj": {
+      "appid": 1574580,
+      "name": "Strange Horticulture",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574580/header.jpg?t=1772459223",
+      "verified": true
+    },
+    "chessformer": {
+      "appid": 1701190,
+      "name": "Chessformer",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1701190/header.jpg?t=1642521385",
+      "verified": true
+    },
+    "chessformer-mpxx24eo": {
+      "appid": 1701190,
+      "name": "Chessformer",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1701190/header.jpg?t=1642521385",
+      "verified": true
+    },
+    "raft": {
+      "appid": 648800,
+      "name": "Raft",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+      "verified": true
+    },
+    "raft-mpxx0gjs": {
+      "appid": 648800,
+      "name": "Raft",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+      "verified": true
+    },
+    "backpack hero": {
+      "appid": 1970580,
+      "name": "Backpack Hero",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/header.jpg?t=1771527569",
+      "verified": true
+    },
+    "backpack-hero-mpxwyw0r": {
+      "appid": 1970580,
+      "name": "Backpack Hero",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/header.jpg?t=1771527569",
+      "verified": true
+    },
+    "neon white": {
+      "appid": 1533420,
+      "name": "Neon White",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533420/header.jpg?t=1729099604",
+      "verified": true
+    },
+    "neon-white-mpxwvrx9": {
+      "appid": 1533420,
+      "name": "Neon White",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533420/header.jpg?t=1729099604",
+      "verified": true
+    },
+    "crayon physics deluxe": {
+      "appid": 26900,
+      "name": "Crayon Physics Deluxe",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26900/header.jpg?t=1667476228",
+      "verified": true
+    },
+    "crayon-physics-deluxe-mpxwtj54": {
+      "appid": 26900,
+      "name": "Crayon Physics Deluxe",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26900/header.jpg?t=1667476228",
+      "verified": true
+    },
+    "tricky towers": {
+      "appid": 437920,
+      "name": "Tricky Towers",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437920/b36fdd1a692a6602a7ba77dae4ab5c04ec11e4f4/header.jpg?t=1764332173",
+      "verified": true
+    },
+    "tricky-towers-mpxwsejh": {
+      "appid": 437920,
+      "name": "Tricky Towers",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437920/b36fdd1a692a6602a7ba77dae4ab5c04ec11e4f4/header.jpg?t=1764332173",
+      "verified": true
+    },
+    "medieval dynasty": {
+      "appid": 1129580,
+      "name": "Medieval Dynasty",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129580/header.jpg?t=1780911519",
+      "verified": true
+    },
+    "medieval-dynasty-mpxwr8e2": {
+      "appid": 1129580,
+      "name": "Medieval Dynasty",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129580/header.jpg?t=1780911519",
+      "verified": true
+    },
+    "the gnorp apologue": {
+      "appid": 1473350,
+      "name": "(the) Gnorp Apologue",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473350/header.jpg?t=1766095692",
+      "verified": true
+    },
+    "the-gnorp-apologue-mpxwp2nu": {
+      "appid": 1473350,
+      "name": "(the) Gnorp Apologue",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473350/header.jpg?t=1766095692",
+      "verified": true
+    },
+    "hogwarts legacy": {
+      "appid": 990080,
+      "name": "Hogwarts Legacy",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1778797474",
+      "verified": true
+    },
+    "hogwarts-legacy-mpxwnsxz": {
+      "appid": 990080,
+      "name": "Hogwarts Legacy",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1778797474",
+      "verified": true
+    },
+    "soulstone survivors": {
+      "appid": 2066020,
+      "name": "Soulstone Survivors",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066020/0c4a3e79a44ed18c572a9d9168d6a22723433786/header_alt_assets_2.jpg?t=1780931840",
+      "verified": true
+    },
+    "soulstone-survivors-mpxwnga4": {
+      "appid": 2066020,
+      "name": "Soulstone Survivors",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2066020/0c4a3e79a44ed18c572a9d9168d6a22723433786/header_alt_assets_2.jpg?t=1780931840",
+      "verified": true
+    },
+    "skala": {
+      "appid": 1884990,
+      "name": "Skala",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884990/header.jpg?t=1720814990",
+      "verified": true
+    },
+    "skala-mpxwm495": {
+      "appid": 1884990,
+      "name": "Skala",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884990/header.jpg?t=1720814990",
+      "verified": true
+    },
+    "king of the bridge": {
+      "appid": 2523120,
+      "name": "King of the Bridge",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523120/header.jpg?t=1773529342",
+      "verified": true
+    },
+    "king-of-the-bridge-mpxwjrla": {
+      "appid": 2523120,
+      "name": "King of the Bridge",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523120/header.jpg?t=1773529342",
+      "verified": true
+    },
+    "the turing test": {
+      "appid": 499520,
+      "name": "The Turing Test",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/header.jpg?t=1770271682",
+      "verified": true
+    },
+    "the-turing-test-mpxwikjx": {
+      "appid": 499520,
+      "name": "The Turing Test",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/header.jpg?t=1770271682",
+      "verified": true
+    },
+    "aces adventures": {
+      "appid": 1815570,
+      "name": "Aces & Adventures",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1815570/header.jpg?t=1731955791",
+      "verified": true
+    },
+    "aces-adventures-mpxwfs26": {
+      "appid": 1815570,
+      "name": "Aces & Adventures",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1815570/header.jpg?t=1731955791",
+      "verified": true
+    },
+    "tiny rogues": {
+      "appid": 2088570,
+      "name": "Tiny Rogues",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/header.jpg?t=1757771623",
+      "verified": true
+    },
+    "tiny-rogues-mpxw9a8e": {
+      "appid": 2088570,
+      "name": "Tiny Rogues",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/header.jpg?t=1757771623",
+      "verified": true
+    },
+    "the talos principle 2": {
+      "appid": 835960,
+      "name": "The Talos Principle 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/835960/header.jpg?t=1775138468",
+      "verified": true
+    },
+    "the-talos-principle-2-mpxw7du4": {
+      "appid": 835960,
+      "name": "The Talos Principle 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/835960/header.jpg?t=1775138468",
+      "verified": true
+    },
+    "the talos principle": {
+      "appid": 257510,
+      "name": "The Talos Principle",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/header.jpg?t=1744327639",
+      "verified": true
+    },
+    "the-talos-principle-mpxw42oi": {
+      "appid": 257510,
+      "name": "The Talos Principle",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/header.jpg?t=1744327639",
+      "verified": true
+    },
+    "inscryption": {
+      "appid": 1092790,
+      "name": "Inscryption",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg?t=1777572925",
+      "verified": true
+    },
+    "inscryption-mpxw0fkm": {
+      "appid": 1092790,
+      "name": "Inscryption",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg?t=1777572925",
+      "verified": true
+    },
+    "rabbit and steel": {
+      "appid": 2132850,
+      "name": "Rabbit and Steel",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/header.jpg?t=1771398437",
+      "verified": true
+    },
+    "rabbit-and-steel-mpxoaix4": {
+      "appid": 2132850,
+      "name": "Rabbit and Steel",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/header.jpg?t=1771398437",
+      "verified": true
+    },
+    "caveblazers": {
+      "appid": 452060,
+      "name": "Caveblazers",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/452060/header.jpg?t=1724766962",
+      "verified": true
+    },
+    "caveblazers-mpx9144o": {
+      "appid": 452060,
+      "name": "Caveblazers",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/452060/header.jpg?t=1724766962",
+      "verified": true
+    },
+    "librarian tidy up the arcane library": {
+      "appid": 4197610,
+      "name": "Librarian: Tidy Up the Arcane Library!",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197610/2162be8e12b6bcbf696e508a4b6297c378c33bda/header.jpg?t=1777553917",
+      "verified": true
+    },
+    "librarian-tidy-up-the-arcane-library-mpuuwb2o": {
+      "appid": 4197610,
+      "name": "Librarian: Tidy Up the Arcane Library!",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197610/2162be8e12b6bcbf696e508a4b6297c378c33bda/header.jpg?t=1777553917",
+      "verified": true
+    },
+    "crystal project": {
+      "appid": 1637730,
+      "name": "Crystal Project",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637730/813ac4008b9fa9ca221f15db3f44496d559632fd/header.jpg?t=1775594988",
+      "verified": true
+    },
+    "crystal-project-mpsu9rwn": {
+      "appid": 1637730,
+      "name": "Crystal Project",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637730/813ac4008b9fa9ca221f15db3f44496d559632fd/header.jpg?t=1775594988",
+      "verified": true
+    },
+    "patrick s parabox": {
+      "appid": 1260520,
+      "name": "Patrick's Parabox",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260520/header.jpg?t=1745611653",
+      "verified": true
+    },
+    "patrick-s-parabox-mpra4lf5": {
+      "appid": 1260520,
+      "name": "Patrick's Parabox",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260520/header.jpg?t=1745611653",
+      "verified": true
+    },
+    "carto": {
+      "appid": 1172450,
+      "name": "Carto",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172450/header.jpg?t=1773690780",
+      "verified": true
+    },
+    "carto-mpr9ycm1": {
+      "appid": 1172450,
+      "name": "Carto",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172450/header.jpg?t=1773690780",
+      "verified": true
+    },
+    "disco elysium": {
+      "appid": 632470,
+      "name": "Disco Elysium - The Final Cut",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/816ea59d6d8ac525f79a07c3a7afa94eddb3437c/header.jpg?t=1780913406",
+      "verified": true
+    },
+    "disco-elysium-mppnesmk": {
+      "appid": 632470,
+      "name": "Disco Elysium - The Final Cut",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/816ea59d6d8ac525f79a07c3a7afa94eddb3437c/header.jpg?t=1780913406",
+      "verified": true
+    },
+    "ori and the will of the wisps": {
+      "appid": 1057090,
+      "name": "Ori and the Will of the Wisps",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+      "verified": true
+    },
+    "ori-and-the-will-of-the-wisps-mpnngrn8": {
+      "appid": 1057090,
+      "name": "Ori and the Will of the Wisps",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+      "verified": true
+    },
+    "hi fi rush": {
+      "appid": 1817230,
+      "name": "Hi-Fi RUSH",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/header.jpg?t=1764916407",
+      "verified": true
+    },
+    "hi-fi-rush-mpnmv41g": {
+      "appid": 1817230,
+      "name": "Hi-Fi RUSH",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/header.jpg?t=1764916407",
+      "verified": true
+    },
+    "red dead redemption": {
+      "appid": 2668510,
+      "name": "Red Dead Redemption",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1741118459",
+      "verified": true
+    },
+    "red-dead-redemption-mpngpw8e": {
+      "appid": 2668510,
+      "name": "Red Dead Redemption",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1741118459",
+      "verified": true
+    },
     "spiderheck": {
+      "appid": 1329500,
+      "name": "SpiderHeck",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329500/header.jpg?t=1765355738",
+      "verified": true
+    },
+    "spiderheck-mpjbnyg8": {
       "appid": 1329500,
       "name": "SpiderHeck",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329500/header.jpg?t=1765355738",
@@ -14,7 +708,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/835570/2dcd3cc44129eeb5c67e553acf7a2e503f3cb191/header.jpg?t=1774524137",
       "verified": true
     },
+    "conqueror-s-blade-mpiti1mh": {
+      "appid": 835570,
+      "name": "Conqueror's Blade",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/835570/2dcd3cc44129eeb5c67e553acf7a2e503f3cb191/header.jpg?t=1774524137",
+      "verified": true
+    },
     "9 kings": {
+      "appid": 2784470,
+      "name": "9 Kings",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/696583b4634bfd2777a516cfc59b752f06150c62/header.jpg?t=1778778696",
+      "verified": true
+    },
+    "9-kings-mphdggde": {
       "appid": 2784470,
       "name": "9 Kings",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/696583b4634bfd2777a516cfc59b752f06150c62/header.jpg?t=1778778696",
@@ -26,7 +732,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/dd2032e0f2caab9c6ba560ab988cdec8d1ab3f24/header.jpg?t=1778084209",
       "verified": true
     },
+    "wildfrost-mph8kdt6": {
+      "appid": 1811990,
+      "name": "Wildfrost",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/dd2032e0f2caab9c6ba560ab988cdec8d1ab3f24/header.jpg?t=1778084209",
+      "verified": true
+    },
     "still wakes the deep": {
+      "appid": 1622910,
+      "name": "Still Wakes the Deep",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622910/4922a49a07bf4f8eb23c33571e723d69de5dc5fb/header.jpg?t=1778692301",
+      "verified": true
+    },
+    "still-wakes-the-deep-mph8asv7": {
       "appid": 1622910,
       "name": "Still Wakes the Deep",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622910/4922a49a07bf4f8eb23c33571e723d69de5dc5fb/header.jpg?t=1778692301",
@@ -38,7 +756,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2304440/header.jpg?t=1777545686",
       "verified": true
     },
+    "creatures-of-ava-mph7y4r3": {
+      "appid": 2304440,
+      "name": "Creatures of Ava",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2304440/header.jpg?t=1777545686",
+      "verified": true
+    },
     "tunic": {
+      "appid": 553420,
+      "name": "TUNIC",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553420/header.jpg?t=1773852235",
+      "verified": true
+    },
+    "tunic-mph7wxaz": {
       "appid": 553420,
       "name": "TUNIC",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553420/header.jpg?t=1773852235",
@@ -50,7 +780,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/header.jpg?t=1745521663",
       "verified": true
     },
+    "psychonauts-2-mph7v0al": {
+      "appid": 607080,
+      "name": "Psychonauts 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/header.jpg?t=1745521663",
+      "verified": true
+    },
     "psyconauts 1": {
+      "appid": 3830,
+      "name": "Psychonauts",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1776379310",
+      "verified": true
+    },
+    "psyconauts-1-mph7t5bp": {
       "appid": 3830,
       "name": "Psychonauts",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1776379310",
@@ -62,7 +804,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/02598f72d80e7c5da9f4b418f7fce15532d60388/header.jpg?t=1778779804",
       "verified": true
     },
+    "he-is-coming-mph7p8ef": {
+      "appid": 2824490,
+      "name": "He is Coming",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/02598f72d80e7c5da9f4b418f7fce15532d60388/header.jpg?t=1778779804",
+      "verified": true
+    },
     "blue prince": {
+      "appid": 1569580,
+      "name": "Blue Prince",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/879ac248a3b548a6bbc32771b950756378e7e922/header.jpg?t=1776265019",
+      "verified": true
+    },
+    "blue-prince-mph7nbt9": {
       "appid": 1569580,
       "name": "Blue Prince",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/879ac248a3b548a6bbc32771b950756378e7e922/header.jpg?t=1776265019",
@@ -74,7 +828,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813230/header.jpg?t=1776365443",
       "verified": true
     },
+    "animal-well-mph7jk7q": {
+      "appid": 813230,
+      "name": "ANIMAL WELL",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813230/header.jpg?t=1776365443",
+      "verified": true
+    },
     "dredgers": {
+      "appid": 1112930,
+      "name": "Dredgers",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112930/header.jpg?t=1720841922",
+      "verified": true
+    },
+    "dredgers-mph7h4nj": {
       "appid": 1112930,
       "name": "Dredgers",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112930/header.jpg?t=1720841922",
@@ -86,7 +852,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/header.jpg?t=1769555096",
       "verified": true
     },
+    "luck-be-a-landlord-mph7evk7": {
+      "appid": 1404850,
+      "name": "Luck be a Landlord",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/header.jpg?t=1769555096",
+      "verified": true
+    },
     "guilty as sock": {
+      "appid": 3400930,
+      "name": "Guilty as Sock!",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400930/header.jpg?t=1775754249",
+      "verified": true
+    },
+    "guilty-as-sock-mph7chje": {
       "appid": 3400930,
       "name": "Guilty as Sock!",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400930/header.jpg?t=1775754249",
@@ -98,7 +876,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1769170/6c8fb7501bad0bba6ed7f005a033df1fa80c9116/header.jpg?t=1772815968",
       "verified": true
     },
+    "shattered-pixel-dungeon-mph79x2t": {
+      "appid": 1769170,
+      "name": "Shattered Pixel Dungeon",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1769170/6c8fb7501bad0bba6ed7f005a033df1fa80c9116/header.jpg?t=1772815968",
+      "verified": true
+    },
     "slay the princess": {
+      "appid": 1989270,
+      "name": "Slay the Princess — The Pristine Cut",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/74a54248cfec29144de5e867a333c30e6d62801d/header.jpg?t=1775751748",
+      "verified": true
+    },
+    "slay-the-princess-mph77lcm": {
       "appid": 1989270,
       "name": "Slay the Princess — The Pristine Cut",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/74a54248cfec29144de5e867a333c30e6d62801d/header.jpg?t=1775751748",
@@ -110,7 +900,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276980/df99cca634df67b6daebbb95e4c90d5e2ce11779/header.jpg?t=1778091923",
       "verified": true
     },
+    "faceminer-mph763le": {
+      "appid": 2276980,
+      "name": "FACEMINER",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276980/df99cca634df67b6daebbb95e4c90d5e2ce11779/header.jpg?t=1778091923",
+      "verified": true
+    },
     "game builder tycoon": {
+      "appid": 2756470,
+      "name": "Game Builder Tycoon",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2756470/header.jpg?t=1745482095",
+      "verified": true
+    },
+    "game-builder-tycoon-mph6z4dy": {
       "appid": 2756470,
       "name": "Game Builder Tycoon",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2756470/header.jpg?t=1745482095",
@@ -122,7 +924,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1779437128",
       "verified": true
     },
+    "subnautica-2-mpglfhg8": {
+      "appid": 1962700,
+      "name": "Subnautica 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1779437128",
+      "verified": true
+    },
     "baulders gate": {
+      "appid": 1086940,
+      "name": "Baldur's Gate 3",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+      "verified": true
+    },
+    "baulders-gate-0": {
       "appid": 1086940,
       "name": "Baldur's Gate 3",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
@@ -134,7 +948,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394650/header.jpg?t=1777417867",
       "verified": true
     },
+    "crypt-custodian-1": {
+      "appid": 2394650,
+      "name": "Crypt Custodian",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394650/header.jpg?t=1777417867",
+      "verified": true
+    },
     "runescape": {
+      "appid": 1343400,
+      "name": "RuneScape ®",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/164e54273831e76f820378b4c6e0c21e0a4834e2/header.jpg?t=1771947591",
+      "verified": true
+    },
+    "runescape-2": {
       "appid": 1343400,
       "name": "RuneScape ®",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/164e54273831e76f820378b4c6e0c21e0a4834e2/header.jpg?t=1771947591",
@@ -146,7 +972,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233070/header.jpg?t=1767942918",
       "verified": true
     },
+    "isles-of-sea-and-sky-3": {
+      "appid": 1233070,
+      "name": "Isles of Sea and Sky",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233070/header.jpg?t=1767942918",
+      "verified": true
+    },
     "minds beneath us": {
+      "appid": 1610440,
+      "name": "Minds Beneath Us",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1610440/header.jpg?t=1774934061",
+      "verified": true
+    },
+    "minds-beneath-us-4": {
       "appid": 1610440,
       "name": "Minds Beneath Us",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1610440/header.jpg?t=1774934061",
@@ -158,7 +996,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371720/header.jpg?t=1728952706",
       "verified": true
     },
+    "card-shark-5": {
+      "appid": 1371720,
+      "name": "Card Shark",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371720/header.jpg?t=1728952706",
+      "verified": true
+    },
     "captain of industry": {
+      "appid": 1594320,
+      "name": "Captain of Industry",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1594320/2ab6e9a5ec9aedca02b0347bb017c92caff0580b/header.jpg?t=1776465561",
+      "verified": true
+    },
+    "captain-of-industry-6": {
       "appid": 1594320,
       "name": "Captain of Industry",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1594320/2ab6e9a5ec9aedca02b0347bb017c92caff0580b/header.jpg?t=1776465561",
@@ -170,7 +1020,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1735700/4ec07b7ab8091feb176f7ad58b833c52524ffe11/header.jpg?t=1778658474",
       "verified": true
     },
+    "back-to-the-dawn-7": {
+      "appid": 1735700,
+      "name": "Back to the Dawn",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1735700/4ec07b7ab8091feb176f7ad58b833c52524ffe11/header.jpg?t=1778658474",
+      "verified": true
+    },
     "the alters": {
+      "appid": 1601570,
+      "name": "The Alters",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601570/header.jpg?t=1774966319",
+      "verified": true
+    },
+    "the-alters-8": {
       "appid": 1601570,
       "name": "The Alters",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601570/header.jpg?t=1774966319",
@@ -182,7 +1044,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/2798c690a3bfd8a4361bf12d95a9da5cb0fe8cf1/header_alt_assets_4.jpg?t=1779381469",
       "verified": true
     },
+    "monster-train-2-9": {
+      "appid": 2742830,
+      "name": "Monster Train 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/2798c690a3bfd8a4361bf12d95a9da5cb0fe8cf1/header_alt_assets_4.jpg?t=1779381469",
+      "verified": true
+    },
     "strange jigsaws": {
+      "appid": 2702170,
+      "name": "Strange Jigsaws",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/fb48930b7cd516449aaabda3c92b80cd6aae8ed5/header.jpg?t=1770906631",
+      "verified": true
+    },
+    "strange-jigsaws-10": {
       "appid": 2702170,
       "name": "Strange Jigsaws",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/fb48930b7cd516449aaabda3c92b80cd6aae8ed5/header.jpg?t=1770906631",
@@ -194,7 +1068,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/dc5bd100e86dbdb088e7ff17cdb601e7eb2e00bc/header.jpg?t=1779406009",
       "verified": true
     },
+    "rain-world-11": {
+      "appid": 312520,
+      "name": "Rain World",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/dc5bd100e86dbdb088e7ff17cdb601e7eb2e00bc/header.jpg?t=1779406009",
+      "verified": true
+    },
     "crosscode": {
+      "appid": 368340,
+      "name": "CrossCode",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368340/header.jpg?t=1760427046",
+      "verified": true
+    },
+    "crosscode-12": {
       "appid": 368340,
       "name": "CrossCode",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368340/header.jpg?t=1760427046",
@@ -206,7 +1092,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/995980/header.jpg?t=1773691935",
       "verified": true
     },
+    "fae-tactics-13": {
+      "appid": 995980,
+      "name": "Fae Tactics",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/995980/header.jpg?t=1773691935",
+      "verified": true
+    },
     "fields of mistria": {
+      "appid": 2142790,
+      "name": "Fields of Mistria",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/header.jpg?t=1771865130",
+      "verified": true
+    },
+    "fields-of-mistria-14": {
       "appid": 2142790,
       "name": "Fields of Mistria",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/header.jpg?t=1771865130",
@@ -218,7 +1116,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366970/header.jpg?t=1776481494",
       "verified": true
     },
+    "arco-15": {
+      "appid": 2366970,
+      "name": "Arco",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366970/header.jpg?t=1776481494",
+      "verified": true
+    },
     "worldless": {
+      "appid": 1898500,
+      "name": "Worldless",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/header.jpg?t=1758539643",
+      "verified": true
+    },
+    "worldless-16": {
       "appid": 1898500,
       "name": "Worldless",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/header.jpg?t=1758539643",
@@ -230,7 +1140,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/1ea288180106f046988190e4fe3e3fae2ea15028/header_alt_assets_7.jpg?t=1779290290",
       "verified": true
     },
+    "shapez-2-17": {
+      "appid": 2162800,
+      "name": "shapez 2 - Factory",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/1ea288180106f046988190e4fe3e3fae2ea15028/header_alt_assets_7.jpg?t=1779290290",
+      "verified": true
+    },
     "signalis": {
+      "appid": 1262350,
+      "name": "SIGNALIS",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/header.jpg?t=1773697315",
+      "verified": true
+    },
+    "signalis-18": {
       "appid": 1262350,
       "name": "SIGNALIS",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/header.jpg?t=1773697315",
@@ -242,7 +1164,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578160/header.jpg?t=1724766020",
       "verified": true
     },
+    "bots-are-stupid-19": {
+      "appid": 1578160,
+      "name": "Bots Are Stupid",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578160/header.jpg?t=1724766020",
+      "verified": true
+    },
     "ship inc": {
+      "appid": 3496000,
+      "name": "Ship, Inc.",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496000/d1feb892b127dda2e907f14635d636cc0d3d87c4/header.jpg?t=1779170567",
+      "verified": true
+    },
+    "ship-inc-20": {
       "appid": 3496000,
       "name": "Ship, Inc.",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496000/d1feb892b127dda2e907f14635d636cc0d3d87c4/header.jpg?t=1779170567",
@@ -251,10 +1185,22 @@
     "drg survivor": {
       "appid": 2321470,
       "name": "Deep Rock Galactic: Survivor",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1777569366",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1780935538",
+      "verified": true
+    },
+    "drg-survivor-21": {
+      "appid": 2321470,
+      "name": "Deep Rock Galactic: Survivor",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1780935538",
       "verified": true
     },
     "red dead redemption 2": {
+      "appid": 1174180,
+      "name": "Red Dead Redemption 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+      "verified": true
+    },
+    "red-dead-redemption-2-22": {
       "appid": 1174180,
       "name": "Red Dead Redemption 2",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
@@ -266,7 +1212,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/header.jpg?t=1775398413",
       "verified": true
     },
+    "miside-23": {
+      "appid": 2527500,
+      "name": "MiSide",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/header.jpg?t=1775398413",
+      "verified": true
+    },
     "keep on mining": {
+      "appid": 3769130,
+      "name": "Keep on Mining!",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3769130/320ecc31730377d03c319b411fbf9ee95908d3c2/header.jpg?t=1779084143",
+      "verified": true
+    },
+    "keep-on-mining-24": {
       "appid": 3769130,
       "name": "Keep on Mining!",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3769130/320ecc31730377d03c319b411fbf9ee95908d3c2/header.jpg?t=1779084143",
@@ -275,16 +1233,22 @@
     "city game studio": {
       "appid": 726840,
       "name": "City Game Studio: Your Game Dev Adventure Begins",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/726840/87c8f6901c5fc151b8b9bbb452cfcc21aee211c8/header.jpg?t=1777381106",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/726840/87c8f6901c5fc151b8b9bbb452cfcc21aee211c8/header.jpg?t=1780318899",
       "verified": true
     },
-    "creeper world 4": {
-      "appid": 848480,
-      "name": "Creeper World 4",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848480/header.jpg?t=1688931316",
+    "city-game-studio-25": {
+      "appid": 726840,
+      "name": "City Game Studio: Your Game Dev Adventure Begins",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/726840/87c8f6901c5fc151b8b9bbb452cfcc21aee211c8/header.jpg?t=1780318899",
       "verified": true
     },
     "the drifter": {
+      "appid": 1170570,
+      "name": "The Drifter",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/458be4cc92ad9b57cbf98c07ed7d75be033c5d70/header.jpg?t=1778629979",
+      "verified": true
+    },
+    "the-drifter-27": {
       "appid": 1170570,
       "name": "The Drifter",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/458be4cc92ad9b57cbf98c07ed7d75be033c5d70/header.jpg?t=1778629979",
@@ -296,7 +1260,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026000/header.jpg?t=1760657263",
       "verified": true
     },
+    "our-adventuring-guild-28": {
+      "appid": 2026000,
+      "name": "Our Adventurer Guild",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026000/header.jpg?t=1760657263",
+      "verified": true
+    },
     "hellcard": {
+      "appid": 1201540,
+      "name": "HELLCARD",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201540/header.jpg?t=1778601414",
+      "verified": true
+    },
+    "hellcard-29": {
       "appid": 1201540,
       "name": "HELLCARD",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201540/header.jpg?t=1778601414",
@@ -308,7 +1284,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/11a54f36e60fbfd2d0c0d4ba3f8794be98c4bb14/header.jpg?t=1765463457",
       "verified": true
     },
+    "pheonix-point-30": {
+      "appid": 839770,
+      "name": "Phoenix Point",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/11a54f36e60fbfd2d0c0d4ba3f8794be98c4bb14/header.jpg?t=1765463457",
+      "verified": true
+    },
     "art of reflection": {
+      "appid": 2290770,
+      "name": "The Art of Reflection",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290770/header.jpg?t=1764608311",
+      "verified": true
+    },
+    "art-of-reflection-31": {
       "appid": 2290770,
       "name": "The Art of Reflection",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290770/header.jpg?t=1764608311",
@@ -320,7 +1308,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366540/2521472f3f71b6f179515fdcfa33d27c212ba3ce/header.jpg?t=1776523171",
       "verified": true
     },
+    "dyson-sphere-progam-32": {
+      "appid": 1366540,
+      "name": "Dyson Sphere Program",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366540/2521472f3f71b6f179515fdcfa33d27c212ba3ce/header.jpg?t=1776523171",
+      "verified": true
+    },
     "bloomtown": {
+      "appid": 2445990,
+      "name": "Bloomtown: A Different Story",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445990/0493011e96fb4b23c836aa00f5728aef98c120e8/header.jpg?t=1769429309",
+      "verified": true
+    },
+    "bloomtown-33": {
       "appid": 2445990,
       "name": "Bloomtown: A Different Story",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445990/0493011e96fb4b23c836aa00f5728aef98c120e8/header.jpg?t=1769429309",
@@ -332,7 +1332,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1807090/header.jpg?t=1741270807",
       "verified": true
     },
+    "wantless-34": {
+      "appid": 1807090,
+      "name": "Wantless : Solace at World’s End",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1807090/header.jpg?t=1741270807",
+      "verified": true
+    },
     "colonyship": {
+      "appid": 648410,
+      "name": "Colony Ship: A Post-Earth Role Playing Game",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648410/e4754eade8af3fefe6856cc502ce6df3429b8792/header.jpg?t=1774881392",
+      "verified": true
+    },
+    "colonyship-35": {
       "appid": 648410,
       "name": "Colony Ship: A Post-Earth Role Playing Game",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648410/e4754eade8af3fefe6856cc502ce6df3429b8792/header.jpg?t=1774881392",
@@ -344,7 +1356,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/header.jpg?t=1764521441",
       "verified": true
     },
+    "atlyss-36": {
+      "appid": 2768430,
+      "name": "ATLYSS",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/header.jpg?t=1764521441",
+      "verified": true
+    },
     "sun haven": {
+      "appid": 1432860,
+      "name": "Sun Haven",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/header.jpg?t=1741982676",
+      "verified": true
+    },
+    "sun-haven-37": {
       "appid": 1432860,
       "name": "Sun Haven",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/header.jpg?t=1741982676",
@@ -356,7 +1380,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224290/header.jpg?t=1736551752",
       "verified": true
     },
+    "horizons-gate-38": {
+      "appid": 1224290,
+      "name": "Horizon's Gate",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224290/header.jpg?t=1736551752",
+      "verified": true
+    },
     "horizonm zero dawn": {
+      "appid": 1151640,
+      "name": "Horizon Zero Dawn™ Complete Edition",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788",
+      "verified": true
+    },
+    "horizonm-zero-dawn-39": {
       "appid": 1151640,
       "name": "Horizon Zero Dawn™ Complete Edition",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788",
@@ -368,7 +1404,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846030/header.jpg?t=1772017493",
       "verified": true
     },
+    "rings-of-saturn-40": {
+      "appid": 846030,
+      "name": "ΔV: Rings of Saturn",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846030/header.jpg?t=1772017493",
+      "verified": true
+    },
     "those who rule": {
+      "appid": 1822060,
+      "name": "Those Who Rule",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1822060/header.jpg?t=1774876404",
+      "verified": true
+    },
+    "those-who-rule-41": {
       "appid": 1822060,
       "name": "Those Who Rule",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1822060/header.jpg?t=1774876404",
@@ -380,7 +1428,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105670/header.jpg?t=1778181686",
       "verified": true
     },
+    "the-last-spell-42": {
+      "appid": 1105670,
+      "name": "The Last Spell",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105670/header.jpg?t=1778181686",
+      "verified": true
+    },
     "tactical breach wizards": {
+      "appid": 1043810,
+      "name": "Tactical Breach Wizards",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/header.jpg?t=1777560473",
+      "verified": true
+    },
+    "tactical-breach-wizards-43": {
       "appid": 1043810,
       "name": "Tactical Breach Wizards",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/header.jpg?t=1777560473",
@@ -392,7 +1452,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1434950/header.jpg?t=1769544197",
       "verified": true
     },
+    "highfleet-44": {
+      "appid": 1434950,
+      "name": "HighFleet",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1434950/header.jpg?t=1769544197",
+      "verified": true
+    },
     "the perfect tower 2": {
+      "appid": 1197260,
+      "name": "The Perfect Tower II",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/6646db584a6ba37182863a3a3b0968fba84640c5/header.jpg?t=1764515126",
+      "verified": true
+    },
+    "the-perfect-tower-2-45": {
       "appid": 1197260,
       "name": "The Perfect Tower II",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/6646db584a6ba37182863a3a3b0968fba84640c5/header.jpg?t=1764515126",
@@ -404,7 +1476,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/382310/669bd5d9c8d2469a776d81011670f2889fac86b0/header.jpg?t=1776595525",
       "verified": true
     },
+    "eco-46": {
+      "appid": 382310,
+      "name": "Eco",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/382310/669bd5d9c8d2469a776d81011670f2889fac86b0/header.jpg?t=1776595525",
+      "verified": true
+    },
     "portal 2": {
+      "appid": 620,
+      "name": "Portal 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004",
+      "verified": true
+    },
+    "portal-2-47": {
       "appid": 620,
       "name": "Portal 2",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004",
@@ -416,7 +1500,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
       "verified": true
     },
+    "portal-1-48": {
+      "appid": 400,
+      "name": "Portal",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
+      "verified": true
+    },
     "dishonoured 1": {
+      "appid": 205100,
+      "name": "Dishonored",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/header.jpg?t=1750785977",
+      "verified": true
+    },
+    "dishonoured-1-49": {
       "appid": 205100,
       "name": "Dishonored",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/header.jpg?t=1750785977",
@@ -428,7 +1524,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403640/header.jpg?t=1750785918",
       "verified": true
     },
+    "dishonoured-2-50": {
+      "appid": 403640,
+      "name": "Dishonored 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403640/header.jpg?t=1750785918",
+      "verified": true
+    },
     "half life 1": {
+      "appid": 70,
+      "name": "Half-Life",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1745368462",
+      "verified": true
+    },
+    "half-life-1-51": {
       "appid": 70,
       "name": "Half-Life",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1745368462",
@@ -440,7 +1548,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1779137571",
       "verified": true
     },
+    "outer-wilds-52": {
+      "appid": 753640,
+      "name": "Outer Wilds",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1779137571",
+      "verified": true
+    },
     "outer worlds": {
+      "appid": 578650,
+      "name": "The Outer Worlds",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578650/header.jpg?t=1776350110",
+      "verified": true
+    },
+    "outer-worlds-53": {
       "appid": 578650,
       "name": "The Outer Worlds",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578650/header.jpg?t=1776350110",
@@ -452,7 +1572,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/header.jpg?t=1720810823",
       "verified": true
     },
+    "witness-54": {
+      "appid": 210970,
+      "name": "The Witness",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/header.jpg?t=1720810823",
+      "verified": true
+    },
     "baba is you": {
+      "appid": 736260,
+      "name": "Baba Is You",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736260/header.jpg?t=1760102539",
+      "verified": true
+    },
+    "baba-is-you-55": {
       "appid": 736260,
       "name": "Baba Is You",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736260/header.jpg?t=1760102539",
@@ -464,7 +1596,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/header.jpg?t=1750785331",
       "verified": true
     },
+    "prey-56": {
+      "appid": 480490,
+      "name": "Prey",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/header.jpg?t=1750785331",
+      "verified": true
+    },
     "just cause 2": {
+      "appid": 8190,
+      "name": "Just Cause 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg?t=1728396849",
+      "verified": true
+    },
+    "just-cause-2-57": {
       "appid": 8190,
       "name": "Just Cause 2",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg?t=1728396849",
@@ -476,7 +1620,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284240/461061e2e3cfaca0dad1423f6bd5aa60b84f5d68/header.jpg?t=1744903300",
       "verified": true
     },
+    "maize-58": {
+      "appid": 284240,
+      "name": "Maize",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284240/461061e2e3cfaca0dad1423f6bd5aa60b84f5d68/header.jpg?t=1744903300",
+      "verified": true
+    },
     "doki doki literature club": {
+      "appid": 698780,
+      "name": "Doki Doki Literature Club!",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/header.jpg?t=1681943582",
+      "verified": true
+    },
+    "doki-doki-literature-club-59": {
       "appid": 698780,
       "name": "Doki Doki Literature Club!",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/header.jpg?t=1681943582",
@@ -488,7 +1644,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22380/header.jpg?t=1765992876",
       "verified": true
     },
+    "fallout-new-vegas-60": {
+      "appid": 22380,
+      "name": "Fallout: New Vegas",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22380/header.jpg?t=1765992876",
+      "verified": true
+    },
     "fallout 3": {
+      "appid": 22300,
+      "name": "Fallout 3",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/header.jpg?t=1732208474",
+      "verified": true
+    },
+    "fallout-3-61": {
       "appid": 22300,
       "name": "Fallout 3",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/header.jpg?t=1732208474",
@@ -500,7 +1668,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1764687456",
       "verified": true
     },
+    "fallout-4-62": {
+      "appid": 377160,
+      "name": "Fallout 4",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1764687456",
+      "verified": true
+    },
     "skyrim": {
+      "appid": 489830,
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1753715778",
+      "verified": true
+    },
+    "skyrim-63": {
       "appid": 489830,
       "name": "The Elder Scrolls V: Skyrim Special Edition",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1753715778",
@@ -512,7 +1692,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491950/header.jpg?t=1770913154",
       "verified": true
     },
+    "orwell-64": {
+      "appid": 491950,
+      "name": "Orwell: Keeping an Eye On You",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491950/header.jpg?t=1770913154",
+      "verified": true
+    },
     "scanner sombre": {
+      "appid": 475190,
+      "name": "Scanner Sombre",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/475190/header.jpg?t=1739424284",
+      "verified": true
+    },
+    "scanner-sombre-65": {
       "appid": 475190,
       "name": "Scanner Sombre",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/475190/header.jpg?t=1739424284",
@@ -524,7 +1716,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040230/header.jpg?t=1745320591",
       "verified": true
     },
+    "curi-66": {
+      "appid": 1040230,
+      "name": "Curious Expedition 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040230/header.jpg?t=1745320591",
+      "verified": true
+    },
     "the shrouded isl": {
+      "appid": 501320,
+      "name": "The Shrouded Isle",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501320/e2acf38acf7dc544f7f70c055984f594839520c0/header.jpg?t=1771535255",
+      "verified": true
+    },
+    "the-shrouded-isl-67": {
       "appid": 501320,
       "name": "The Shrouded Isle",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501320/e2acf38acf7dc544f7f70c055984f594839520c0/header.jpg?t=1771535255",
@@ -536,7 +1740,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629770/header.jpg?t=1761575555",
       "verified": true
     },
+    "tiny-echo-68": {
+      "appid": 629770,
+      "name": "Tiny Echo",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629770/header.jpg?t=1761575555",
+      "verified": true
+    },
     "wuppo": {
+      "appid": 400630,
+      "name": "Wuppo: Definitive Edition",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400630/header.jpg?t=1755845151",
+      "verified": true
+    },
+    "wuppo-69": {
       "appid": 400630,
       "name": "Wuppo: Definitive Edition",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400630/header.jpg?t=1755845151",
@@ -548,7 +1764,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/402710/header.jpg?t=1745496432",
       "verified": true
     },
+    "osiris-new-dawn-70": {
+      "appid": 402710,
+      "name": "Osiris: New Dawn",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/402710/header.jpg?t=1745496432",
+      "verified": true
+    },
     "event 0": {
+      "appid": 470260,
+      "name": "Event[0]",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470260/header.jpg?t=1774622671",
+      "verified": true
+    },
+    "event-0-71": {
       "appid": 470260,
       "name": "Event[0]",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470260/header.jpg?t=1774622671",
@@ -560,7 +1788,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/header.jpg?t=1762899660",
       "verified": true
     },
+    "hyper-light-drifter-72": {
+      "appid": 257850,
+      "name": "Hyper Light Drifter",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/header.jpg?t=1762899660",
+      "verified": true
+    },
     "borderlands": {
+      "appid": 1285190,
+      "name": "Borderlands 4",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1779392705",
+      "verified": true
+    },
+    "borderlands-73": {
       "appid": 1285190,
       "name": "Borderlands 4",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1779392705",
@@ -572,7 +1812,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg?t=1751931279",
       "verified": true
     },
+    "borderlands-2-74": {
+      "appid": 49520,
+      "name": "Borderlands 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg?t=1751931279",
+      "verified": true
+    },
     "borderlands pre sequal": {
+      "appid": 261640,
+      "name": "Borderlands: The Pre-Sequel",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/header.jpg?t=1750081341",
+      "verified": true
+    },
+    "borderlands-pre-sequal-75": {
       "appid": 261640,
       "name": "Borderlands: The Pre-Sequel",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/header.jpg?t=1750081341",
@@ -584,7 +1836,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg?t=1750802377",
       "verified": true
     },
+    "borderlands-3-76": {
+      "appid": 397540,
+      "name": "Borderlands 3",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg?t=1750802377",
+      "verified": true
+    },
     "tales from the borderlands": {
+      "appid": 330830,
+      "name": "Tales from the Borderlands",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330830/header.jpg?t=1777932543",
+      "verified": true
+    },
+    "tales-from-the-borderlands-77": {
       "appid": 330830,
       "name": "Tales from the Borderlands",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330830/header.jpg?t=1777932543",
@@ -596,7 +1860,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/696480/header.jpg?t=1741277937",
       "verified": true
     },
+    "norwoord-suite-78": {
+      "appid": 696480,
+      "name": "The Norwood Suite",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/696480/header.jpg?t=1741277937",
+      "verified": true
+    },
     "what remains of edith finch": {
+      "appid": 501300,
+      "name": "What Remains of Edith Finch",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501300/header.jpg?t=1751995813",
+      "verified": true
+    },
+    "what-remains-of-edith-finch-79": {
       "appid": 501300,
       "name": "What Remains of Edith Finch",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501300/header.jpg?t=1751995813",
@@ -608,7 +1884,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206430/header.jpg?t=1729099245",
       "verified": true
     },
+    "the-unfinished-swan-80": {
+      "appid": 1206430,
+      "name": "The Unfinished Swan",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206430/header.jpg?t=1729099245",
+      "verified": true
+    },
     "superhot": {
+      "appid": 322500,
+      "name": "SUPERHOT",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322500/header.jpg?t=1726509130",
+      "verified": true
+    },
+    "superhot-81": {
       "appid": 322500,
       "name": "SUPERHOT",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322500/header.jpg?t=1726509130",
@@ -620,13 +1908,43 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/header.jpg?t=1726509081",
       "verified": true
     },
+    "superhot-vr-82": {
+      "appid": 617830,
+      "name": "SUPERHOT VR",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/header.jpg?t=1726509081",
+      "verified": true
+    },
     "superhot mcd": {
       "appid": 690040,
       "name": "SUPERHOT: MIND CONTROL DELETE",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/header.jpg?t=1726508997",
       "verified": true
     },
+    "superhot-mcd-83": {
+      "appid": 690040,
+      "name": "SUPERHOT: MIND CONTROL DELETE",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/header.jpg?t=1726508997",
+      "verified": true
+    },
+    "creeper world 4": {
+      "appid": 848480,
+      "name": "Creeper World 4",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848480/header.jpg?t=1688931316",
+      "verified": true
+    },
+    "creeper-world-4-84": {
+      "appid": 848480,
+      "name": "Creeper World 4",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848480/header.jpg?t=1688931316",
+      "verified": true
+    },
     "opus magnum": {
+      "appid": 558990,
+      "name": "Opus Magnum",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/6d8aa1ce08dd0c0e711e0eb068d9d9af6fdb3317/header.jpg?t=1774910584",
+      "verified": true
+    },
+    "opus-magnum-85": {
       "appid": 558990,
       "name": "Opus Magnum",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/6d8aa1ce08dd0c0e711e0eb068d9d9af6fdb3317/header.jpg?t=1774910584",
@@ -638,7 +1956,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/716490/header.jpg?t=1667071547",
       "verified": true
     },
+    "exapunks-86": {
+      "appid": 716490,
+      "name": "EXAPUNKS",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/716490/header.jpg?t=1667071547",
+      "verified": true
+    },
     "infinifactory": {
+      "appid": 300570,
+      "name": "Infinifactory",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300570/header.jpg?t=1667071348",
+      "verified": true
+    },
+    "infinifactory-87": {
       "appid": 300570,
       "name": "Infinifactory",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300570/header.jpg?t=1667071348",
@@ -650,7 +1980,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269770/header.jpg?t=1709229612",
       "verified": true
     },
+    "secrets-of-grindea-88": {
+      "appid": 269770,
+      "name": "Secrets of Grindea",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269770/header.jpg?t=1709229612",
+      "verified": true
+    },
     "gris": {
+      "appid": 683320,
+      "name": "GRIS",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683320/header.jpg?t=1759429603",
+      "verified": true
+    },
+    "gris-89": {
       "appid": 683320,
       "name": "GRIS",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683320/header.jpg?t=1759429603",
@@ -662,7 +2004,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/header.jpg?t=1750952943",
       "verified": true
     },
+    "horizon-zero-dawn-90": {
+      "appid": 2561580,
+      "name": "Horizon Zero Dawn™ Remastered",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/header.jpg?t=1750952943",
+      "verified": true
+    },
     "ftl faster than light": {
+      "appid": 212680,
+      "name": "FTL: Faster Than Light",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/f21426ac9ad51338fa33becce88984758e07c38b/header.jpg?t=1748969356",
+      "verified": true
+    },
+    "ftl-faster-than-light-91": {
       "appid": 212680,
       "name": "FTL: Faster Than Light",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/f21426ac9ad51338fa33becce88984758e07c38b/header.jpg?t=1748969356",
@@ -674,7 +2028,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/header.jpg?t=1755610784",
       "verified": true
     },
+    "into-the-breach-92": {
+      "appid": 590380,
+      "name": "Into the Breach",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/header.jpg?t=1755610784",
+      "verified": true
+    },
     "dream tactics": {
+      "appid": 1897650,
+      "name": "Dream Tactics",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897650/4d529c82edaabb23ce553fbf81a3d0d52177b854/header.jpg?t=1771878003",
+      "verified": true
+    },
+    "dream-tactics-93": {
       "appid": 1897650,
       "name": "Dream Tactics",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897650/4d529c82edaabb23ce553fbf81a3d0d52177b854/header.jpg?t=1771878003",
@@ -686,7 +2052,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/header.jpg?t=1728289933",
       "verified": true
     },
+    "there-is-no-game-wrong-direction-94": {
+      "appid": 1240210,
+      "name": "There Is No Game: Wrong Dimension",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/header.jpg?t=1728289933",
+      "verified": true
+    },
     "heart of the machine": {
+      "appid": 2001070,
+      "name": "Heart of the Machine",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001070/3fd7995ae0214104d0a695a6968e096fa2574238/header.jpg?t=1778779877",
+      "verified": true
+    },
+    "heart-of-the-machine-95": {
       "appid": 2001070,
       "name": "Heart of the Machine",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001070/3fd7995ae0214104d0a695a6968e096fa2574238/header.jpg?t=1778779877",
@@ -698,7 +2076,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269250/19ce847e1c6cfc354e981ec8db7587989ae3f088/header.jpg?t=1770345647",
       "verified": true
     },
+    "world-end-economica-episode-01-96": {
+      "appid": 269250,
+      "name": "WORLD END ECONOMiCA episode.01",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269250/19ce847e1c6cfc354e981ec8db7587989ae3f088/header.jpg?t=1770345647",
+      "verified": true
+    },
     "islands of insight": {
+      "appid": 2071500,
+      "name": "Islands of Insight",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071500/header.jpg?t=1730308751",
+      "verified": true
+    },
+    "islands-of-insight-97": {
       "appid": 2071500,
       "name": "Islands of Insight",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071500/header.jpg?t=1730308751",
@@ -710,7 +2100,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/296970/header.jpg?t=1678189270",
       "verified": true
     },
+    "renowned-explorers-international-society-98": {
+      "appid": 296970,
+      "name": "Renowned Explorers: International Society",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/296970/header.jpg?t=1678189270",
+      "verified": true
+    },
     "mushroom 11": {
+      "appid": 243160,
+      "name": "Mushroom 11",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243160/header.jpg?t=1572465769",
+      "verified": true
+    },
+    "mushroom-11-99": {
       "appid": 243160,
       "name": "Mushroom 11",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243160/header.jpg?t=1572465769",
@@ -722,7 +2124,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/475550/header.jpg?t=1773119808",
       "verified": true
     },
+    "beholder-100": {
+      "appid": 475550,
+      "name": "Beholder",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/475550/header.jpg?t=1773119808",
+      "verified": true
+    },
     "gigachess": {
+      "appid": 415910,
+      "name": "Gigachess",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415910/header.jpg?t=1736540423",
+      "verified": true
+    },
+    "gigachess-101": {
       "appid": 415910,
       "name": "Gigachess",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415910/header.jpg?t=1736540423",
@@ -734,7 +2148,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460700/header.jpg?t=1725992916",
       "verified": true
     },
+    "song-of-the-deep-102": {
+      "appid": 460700,
+      "name": "Song of the Deep",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460700/header.jpg?t=1725992916",
+      "verified": true
+    },
     "pony island": {
+      "appid": 405640,
+      "name": "Pony Island",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405640/header.jpg?t=1720913107",
+      "verified": true
+    },
+    "pony-island-103": {
       "appid": 405640,
       "name": "Pony Island",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405640/header.jpg?t=1720913107",
@@ -746,7 +2172,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225080/dbfc904916a519d4c0cbea79f898cf33fc231ee1/header.jpg?t=1776415514",
       "verified": true
     },
+    "brothers-a-tale-of-two-sons-104": {
+      "appid": 225080,
+      "name": "Brothers - A Tale of Two Sons",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225080/dbfc904916a519d4c0cbea79f898cf33fc231ee1/header.jpg?t=1776415514",
+      "verified": true
+    },
     "kathy rain": {
+      "appid": 370910,
+      "name": "Kathy Rain",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/370910/header.jpg?t=1726577236",
+      "verified": true
+    },
+    "kathy-rain-105": {
       "appid": 370910,
       "name": "Kathy Rain",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/370910/header.jpg?t=1726577236",
@@ -758,7 +2196,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238460/header.jpg?t=1779296698",
       "verified": true
     },
+    "battleblock-theatre-106": {
+      "appid": 238460,
+      "name": "BattleBlock Theater®",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238460/header.jpg?t=1779296698",
+      "verified": true
+    },
     "lego jurassic world": {
+      "appid": 352400,
+      "name": "LEGO® Jurassic World",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/352400/header.jpg?t=1745540350",
+      "verified": true
+    },
+    "lego-jurassic-world-107": {
       "appid": 352400,
       "name": "LEGO® Jurassic World",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/352400/header.jpg?t=1745540350",
@@ -770,7 +2220,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1773641450",
       "verified": true
     },
+    "trucking-simulator-2-108": {
+      "appid": 227300,
+      "name": "Euro Truck Simulator 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1773641450",
+      "verified": true
+    },
     "card hunter": {
+      "appid": 293260,
+      "name": "Card Hunter",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/header.jpg?t=1724143840",
+      "verified": true
+    },
+    "card-hunter-109": {
       "appid": 293260,
       "name": "Card Hunter",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/header.jpg?t=1724143840",
@@ -782,7 +2244,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231200/header.jpg?t=1692292539",
       "verified": true
     },
+    "kentucky-route-zero-110": {
+      "appid": 231200,
+      "name": "Kentucky Route Zero: PC Edition",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231200/header.jpg?t=1692292539",
+      "verified": true
+    },
     "broken age": {
+      "appid": 232790,
+      "name": "Broken Age",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232790/572a9976a7bbab14b2d740ba130c3166ca92a5c6/header.jpg?t=1776459059",
+      "verified": true
+    },
+    "broken-age-111": {
       "appid": 232790,
       "name": "Broken Age",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232790/572a9976a7bbab14b2d740ba130c3166ca92a5c6/header.jpg?t=1776459059",
@@ -794,7 +2268,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/header.jpg?t=1751460426",
       "verified": true
     },
+    "titan-souls-112": {
+      "appid": 297130,
+      "name": "Titan Souls",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/header.jpg?t=1751460426",
+      "verified": true
+    },
     "big pharma": {
+      "appid": 344850,
+      "name": "Big Pharma",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/344850/header.jpg?t=1728241293",
+      "verified": true
+    },
+    "big-pharma-113": {
       "appid": 344850,
       "name": "Big Pharma",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/344850/header.jpg?t=1728241293",
@@ -806,7 +2292,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388880/header.jpg?t=1718924110",
       "verified": true
     },
+    "oxenfree-114": {
+      "appid": 388880,
+      "name": "Oxenfree",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388880/header.jpg?t=1718924110",
+      "verified": true
+    },
     "technobabylon": {
+      "appid": 307580,
+      "name": "Technobabylon",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307580/header.jpg?t=1733231949",
+      "verified": true
+    },
+    "technobabylon-115": {
       "appid": 307580,
       "name": "Technobabylon",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307580/header.jpg?t=1733231949",
@@ -818,7 +2316,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/header.jpg?t=1724341158",
       "verified": true
     },
+    "civ-v-116": {
+      "appid": 8930,
+      "name": "Sid Meier's Civilization® V",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/header.jpg?t=1724341158",
+      "verified": true
+    },
     "zup": {
+      "appid": 617670,
+      "name": "Zup! S",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617670/header.jpg?t=1674745654",
+      "verified": true
+    },
+    "zup-117": {
       "appid": 617670,
       "name": "Zup! S",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617670/header.jpg?t=1674745654",
@@ -830,7 +2340,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454060/header.jpg?t=1725191233",
       "verified": true
     },
+    "blueprint-tycoon-118": {
+      "appid": 454060,
+      "name": "Blueprint Tycoon",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454060/header.jpg?t=1725191233",
+      "verified": true
+    },
     "adventure communist": {
+      "appid": 462930,
+      "name": "AdVenture Communist",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462930/header.jpg?t=1721081621",
+      "verified": true
+    },
+    "adventure-communist-119": {
       "appid": 462930,
       "name": "AdVenture Communist",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462930/header.jpg?t=1721081621",
@@ -842,7 +2364,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/426790/header.jpg?t=1773071931",
       "verified": true
     },
+    "grow-up-120": {
+      "appid": 426790,
+      "name": "Grow Up",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/426790/header.jpg?t=1773071931",
+      "verified": true
+    },
     "reprisal universe": {
+      "appid": 319560,
+      "name": "Reprisal Universe",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319560/header.jpg?t=1478094276",
+      "verified": true
+    },
+    "reprisal-universe-121": {
       "appid": 319560,
       "name": "Reprisal Universe",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319560/header.jpg?t=1478094276",
@@ -854,7 +2388,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239070/1719e8fc3bd6d9289fca3a55eafebfdb32204074/header.jpg?t=1775655744",
       "verified": true
     },
+    "hammerwatch-122": {
+      "appid": 239070,
+      "name": "Hammerwatch",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239070/1719e8fc3bd6d9289fca3a55eafebfdb32204074/header.jpg?t=1775655744",
+      "verified": true
+    },
     "holy potatoes a weapon shop": {
+      "appid": 363600,
+      "name": "Holy Potatoes! A Weapon Shop?!",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363600/header.jpg?t=1569148228",
+      "verified": true
+    },
+    "holy-potatoes-a-weapon-shop-123": {
       "appid": 363600,
       "name": "Holy Potatoes! A Weapon Shop?!",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363600/header.jpg?t=1569148228",
@@ -866,7 +2412,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/header.jpg?t=1764738555",
       "verified": true
     },
+    "hand-of-fate-124": {
+      "appid": 266510,
+      "name": "Hand of Fate",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/header.jpg?t=1764738555",
+      "verified": true
+    },
     "slots daggers": {
+      "appid": 3631290,
+      "name": "Slots & Daggers",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/e6717abc9fe7d15049543614ffd69317b9e1e4b4/header.jpg?t=1777913228",
+      "verified": true
+    },
+    "slots-daggers-125": {
       "appid": 3631290,
       "name": "Slots & Daggers",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/e6717abc9fe7d15049543614ffd69317b9e1e4b4/header.jpg?t=1777913228",
@@ -878,7 +2436,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3370870/4622468af31c1bbd2d87e53a1971719d1cead354/header.jpg?t=1779122241",
       "verified": true
     },
+    "berry-bury-berry-126": {
+      "appid": 3370870,
+      "name": "Berry Bury Berry",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3370870/4622468af31c1bbd2d87e53a1971719d1cead354/header.jpg?t=1779122241",
+      "verified": true
+    },
     "kynseed": {
+      "appid": 758870,
+      "name": "Kynseed",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758870/header.jpg?t=1772618094",
+      "verified": true
+    },
+    "kynseed-128": {
       "appid": 758870,
       "name": "Kynseed",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758870/header.jpg?t=1772618094",
@@ -890,13 +2460,31 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504210/header.jpg?t=1667071700",
       "verified": true
     },
-    "there is no cave": {
-      "appid": 1240210,
-      "name": "There Is No Game: Wrong Dimension",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/header.jpg?t=1728289933",
+    "shenzhen-i-o-129": {
+      "appid": 504210,
+      "name": "SHENZHEN I/O",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504210/header.jpg?t=1667071700",
+      "verified": true
+    },
+    "this is no cave": {
+      "appid": 2852760,
+      "name": "This Is No Cave",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2852760/2776aa0c94d5a9cf0761eade4add46bb8344ae26/header.jpg?t=1764933615",
+      "verified": true
+    },
+    "there-is-no-cave-130": {
+      "appid": 2852760,
+      "name": "This Is No Cave",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2852760/2776aa0c94d5a9cf0761eade4add46bb8344ae26/header.jpg?t=1764933615",
       "verified": true
     },
     "linelith": {
+      "appid": 1923790,
+      "name": "Linelith",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923790/header.jpg?t=1745611800",
+      "verified": true
+    },
+    "linelith-131": {
       "appid": 1923790,
       "name": "Linelith",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923790/header.jpg?t=1745611800",
@@ -908,7 +2496,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490280/header.jpg?t=1745487219",
       "verified": true
     },
+    "realms-of-magic-132": {
+      "appid": 490280,
+      "name": "Realms of Magic",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490280/header.jpg?t=1745487219",
+      "verified": true
+    },
     "calvins gallery": {
+      "appid": 4104830,
+      "name": "Calvin's Gallery",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104830/ed5c758ff6318d529c1c5093d0fb21edac76182e/header.jpg?t=1779332604",
+      "verified": true
+    },
+    "calvins-gallery-133": {
       "appid": 4104830,
       "name": "Calvin's Gallery",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104830/ed5c758ff6318d529c1c5093d0fb21edac76182e/header.jpg?t=1779332604",
@@ -920,7 +2520,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951770/header.jpg?t=1740754366",
       "verified": true
     },
+    "leap-year-134": {
+      "appid": 2951770,
+      "name": "Leap Year",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951770/header.jpg?t=1740754366",
+      "verified": true
+    },
     "handshakes": {
+      "appid": 2171690,
+      "name": "Handshakes",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171690/header.jpg?t=1777484216",
+      "verified": true
+    },
+    "handshakes-135": {
       "appid": 2171690,
       "name": "Handshakes",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171690/header.jpg?t=1777484216",
@@ -932,7 +2544,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323380/header.jpg?t=1572638858",
       "verified": true
     },
+    "the-magic-circle-136": {
+      "appid": 323380,
+      "name": "The Magic Circle",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323380/header.jpg?t=1572638858",
+      "verified": true
+    },
     "mad max": {
+      "appid": 234140,
+      "name": "Mad Max",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234140/header.jpg?t=1773442092",
+      "verified": true
+    },
+    "mad-max-137": {
       "appid": 234140,
       "name": "Mad Max",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234140/header.jpg?t=1773442092",
@@ -944,7 +2568,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/110800/header.jpg?t=1741117102",
       "verified": true
     },
+    "l-a-noire-138": {
+      "appid": 110800,
+      "name": "L.A. Noire",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/110800/header.jpg?t=1741117102",
+      "verified": true
+    },
     "hook": {
+      "appid": 367580,
+      "name": "Hook",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/header.jpg?t=1728467031",
+      "verified": true
+    },
+    "hook-139": {
       "appid": 367580,
       "name": "Hook",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/header.jpg?t=1728467031",
@@ -956,7 +2592,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220285/header.jpg?t=1496329516",
       "verified": true
     },
+    "farming-simulator-2013-140": {
+      "appid": 220285,
+      "name": "Farming Simulator 2013: Ursus",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220285/header.jpg?t=1496329516",
+      "verified": true
+    },
     "farming simulator 2015": {
+      "appid": 313160,
+      "name": "Farming Simulator 15",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313160/header.jpg?t=1593434409",
+      "verified": true
+    },
+    "farming-simulator-2015-141": {
       "appid": 313160,
       "name": "Farming Simulator 15",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313160/header.jpg?t=1593434409",
@@ -968,7 +2616,19 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg?t=1658488796",
       "verified": true
     },
+    "farming-simulator-2017-142": {
+      "appid": 447020,
+      "name": "Farming Simulator 17",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg?t=1658488796",
+      "verified": true
+    },
     "farming simulator 2019": {
+      "appid": 787860,
+      "name": "Farming Simulator 19",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/header.jpg?t=1674664652",
+      "verified": true
+    },
+    "farming-simulator-2019-143": {
       "appid": 787860,
       "name": "Farming Simulator 19",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/header.jpg?t=1674664652",
@@ -980,1000 +2640,16 @@
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233470/header.jpg?t=1716563896",
       "verified": true
     },
-    "evoland 2": {
-      "appid": 359310,
-      "name": "Evoland 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359310/header.jpg?t=1737537707",
-      "verified": true
-    },
-    "spiderheck-mpjbnyg8": {
-      "appid": 1329500,
-      "name": "SpiderHeck",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329500/header.jpg?t=1765355738",
-      "verified": true
-    },
-    "conqueror-s-blade-mpiti1mh": {
-      "appid": 835570,
-      "name": "Conqueror's Blade",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/835570/2dcd3cc44129eeb5c67e553acf7a2e503f3cb191/header.jpg?t=1774524137",
-      "verified": true
-    },
-    "9-kings-mphdggde": {
-      "appid": 2784470,
-      "name": "9 Kings",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/696583b4634bfd2777a516cfc59b752f06150c62/header.jpg?t=1778778696",
-      "verified": true
-    },
-    "wildfrost-mph8kdt6": {
-      "appid": 1811990,
-      "name": "Wildfrost",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/dd2032e0f2caab9c6ba560ab988cdec8d1ab3f24/header.jpg?t=1778084209",
-      "verified": true
-    },
-    "still-wakes-the-deep-mph8asv7": {
-      "appid": 1622910,
-      "name": "Still Wakes the Deep",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622910/4922a49a07bf4f8eb23c33571e723d69de5dc5fb/header.jpg?t=1778692301",
-      "verified": true
-    },
-    "creatures-of-ava-mph7y4r3": {
-      "appid": 2304440,
-      "name": "Creatures of Ava",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2304440/header.jpg?t=1777545686",
-      "verified": true
-    },
-    "tunic-mph7wxaz": {
-      "appid": 553420,
-      "name": "TUNIC",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553420/header.jpg?t=1773852235",
-      "verified": true
-    },
-    "psychonauts-2-mph7v0al": {
-      "appid": 607080,
-      "name": "Psychonauts 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/header.jpg?t=1745521663",
-      "verified": true
-    },
-    "psyconauts-1-mph7t5bp": {
-      "appid": 3830,
-      "name": "Psychonauts",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1776379310",
-      "verified": true
-    },
-    "he-is-coming-mph7p8ef": {
-      "appid": 2824490,
-      "name": "He is Coming",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824490/02598f72d80e7c5da9f4b418f7fce15532d60388/header.jpg?t=1778779804",
-      "verified": true
-    },
-    "blue-prince-mph7nbt9": {
-      "appid": 1569580,
-      "name": "Blue Prince",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/879ac248a3b548a6bbc32771b950756378e7e922/header.jpg?t=1776265019",
-      "verified": true
-    },
-    "animal-well-mph7jk7q": {
-      "appid": 813230,
-      "name": "ANIMAL WELL",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813230/header.jpg?t=1776365443",
-      "verified": true
-    },
-    "dredgers-mph7h4nj": {
-      "appid": 1112930,
-      "name": "Dredgers",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112930/header.jpg?t=1720841922",
-      "verified": true
-    },
-    "luck-be-a-landlord-mph7evk7": {
-      "appid": 1404850,
-      "name": "Luck be a Landlord",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/header.jpg?t=1769555096",
-      "verified": true
-    },
-    "guilty-as-sock-mph7chje": {
-      "appid": 3400930,
-      "name": "Guilty as Sock!",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400930/header.jpg?t=1775754249",
-      "verified": true
-    },
-    "shattered-pixel-dungeon-mph79x2t": {
-      "appid": 1769170,
-      "name": "Shattered Pixel Dungeon",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1769170/6c8fb7501bad0bba6ed7f005a033df1fa80c9116/header.jpg?t=1772815968",
-      "verified": true
-    },
-    "slay-the-princess-mph77lcm": {
-      "appid": 1989270,
-      "name": "Slay the Princess — The Pristine Cut",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/74a54248cfec29144de5e867a333c30e6d62801d/header.jpg?t=1775751748",
-      "verified": true
-    },
-    "faceminer-mph763le": {
-      "appid": 2276980,
-      "name": "FACEMINER",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276980/df99cca634df67b6daebbb95e4c90d5e2ce11779/header.jpg?t=1778091923",
-      "verified": true
-    },
-    "game-builder-tycoon-mph6z4dy": {
-      "appid": 2756470,
-      "name": "Game Builder Tycoon",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2756470/header.jpg?t=1745482095",
-      "verified": true
-    },
-    "subnautica-2-mpglfhg8": {
-      "appid": 1962700,
-      "name": "Subnautica 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1779437128",
-      "verified": true
-    },
-    "baulders-gate-0": {
-      "appid": 1086940,
-      "name": "Baldur's Gate 3",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
-      "verified": true
-    },
-    "crypt-custodian-1": {
-      "appid": 2394650,
-      "name": "Crypt Custodian",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394650/header.jpg?t=1777417867",
-      "verified": true
-    },
-    "runescape-2": {
-      "appid": 1343400,
-      "name": "RuneScape ®",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/164e54273831e76f820378b4c6e0c21e0a4834e2/header.jpg?t=1771947591",
-      "verified": true
-    },
-    "isles-of-sea-and-sky-3": {
-      "appid": 1233070,
-      "name": "Isles of Sea and Sky",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233070/header.jpg?t=1767942918",
-      "verified": true
-    },
-    "minds-beneath-us-4": {
-      "appid": 1610440,
-      "name": "Minds Beneath Us",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1610440/header.jpg?t=1774934061",
-      "verified": true
-    },
-    "card-shark-5": {
-      "appid": 1371720,
-      "name": "Card Shark",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371720/header.jpg?t=1728952706",
-      "verified": true
-    },
-    "captain-of-industry-6": {
-      "appid": 1594320,
-      "name": "Captain of Industry",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1594320/2ab6e9a5ec9aedca02b0347bb017c92caff0580b/header.jpg?t=1776465561",
-      "verified": true
-    },
-    "back-to-the-dawn-7": {
-      "appid": 1735700,
-      "name": "Back to the Dawn",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1735700/4ec07b7ab8091feb176f7ad58b833c52524ffe11/header.jpg?t=1778658474",
-      "verified": true
-    },
-    "the-alters-8": {
-      "appid": 1601570,
-      "name": "The Alters",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601570/header.jpg?t=1774966319",
-      "verified": true
-    },
-    "monster-train-2-9": {
-      "appid": 2742830,
-      "name": "Monster Train 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742830/2798c690a3bfd8a4361bf12d95a9da5cb0fe8cf1/header_alt_assets_4.jpg?t=1779381469",
-      "verified": true
-    },
-    "strange-jigsaws-10": {
-      "appid": 2702170,
-      "name": "Strange Jigsaws",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/fb48930b7cd516449aaabda3c92b80cd6aae8ed5/header.jpg?t=1770906631",
-      "verified": true
-    },
-    "rain-world-11": {
-      "appid": 312520,
-      "name": "Rain World",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/dc5bd100e86dbdb088e7ff17cdb601e7eb2e00bc/header.jpg?t=1779406009",
-      "verified": true
-    },
-    "crosscode-12": {
-      "appid": 368340,
-      "name": "CrossCode",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368340/header.jpg?t=1760427046",
-      "verified": true
-    },
-    "fae-tactics-13": {
-      "appid": 995980,
-      "name": "Fae Tactics",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/995980/header.jpg?t=1773691935",
-      "verified": true
-    },
-    "fields-of-mistria-14": {
-      "appid": 2142790,
-      "name": "Fields of Mistria",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/header.jpg?t=1771865130",
-      "verified": true
-    },
-    "arco-15": {
-      "appid": 2366970,
-      "name": "Arco",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366970/header.jpg?t=1776481494",
-      "verified": true
-    },
-    "worldless-16": {
-      "appid": 1898500,
-      "name": "Worldless",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/header.jpg?t=1758539643",
-      "verified": true
-    },
-    "shapez-2-17": {
-      "appid": 2162800,
-      "name": "shapez 2 - Factory",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/1ea288180106f046988190e4fe3e3fae2ea15028/header_alt_assets_7.jpg?t=1779290290",
-      "verified": true
-    },
-    "signalis-18": {
-      "appid": 1262350,
-      "name": "SIGNALIS",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/header.jpg?t=1773697315",
-      "verified": true
-    },
-    "bots-are-stupid-19": {
-      "appid": 1578160,
-      "name": "Bots Are Stupid",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578160/header.jpg?t=1724766020",
-      "verified": true
-    },
-    "ship-inc-20": {
-      "appid": 3496000,
-      "name": "Ship, Inc.",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496000/d1feb892b127dda2e907f14635d636cc0d3d87c4/header.jpg?t=1779170567",
-      "verified": true
-    },
-    "drg-survivor-21": {
-      "appid": 2321470,
-      "name": "Deep Rock Galactic: Survivor",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1777569366",
-      "verified": true
-    },
-    "red-dead-redemption-2-22": {
-      "appid": 1174180,
-      "name": "Red Dead Redemption 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
-      "verified": true
-    },
-    "miside-23": {
-      "appid": 2527500,
-      "name": "MiSide",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/header.jpg?t=1775398413",
-      "verified": true
-    },
-    "keep-on-mining-24": {
-      "appid": 3769130,
-      "name": "Keep on Mining!",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3769130/320ecc31730377d03c319b411fbf9ee95908d3c2/header.jpg?t=1779084143",
-      "verified": true
-    },
-    "city-game-studio-25": {
-      "appid": 726840,
-      "name": "City Game Studio: Your Game Dev Adventure Begins",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/726840/87c8f6901c5fc151b8b9bbb452cfcc21aee211c8/header.jpg?t=1777381106",
-      "verified": true
-    },
-    "creeper-world-4-26": {
-      "appid": 848480,
-      "name": "Creeper World 4",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848480/header.jpg?t=1688931316",
-      "verified": true
-    },
-    "the-drifter-27": {
-      "appid": 1170570,
-      "name": "The Drifter",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/458be4cc92ad9b57cbf98c07ed7d75be033c5d70/header.jpg?t=1778629979",
-      "verified": true
-    },
-    "our-adventuring-guild-28": {
-      "appid": 2026000,
-      "name": "Our Adventurer Guild",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026000/header.jpg?t=1760657263",
-      "verified": true
-    },
-    "hellcard-29": {
-      "appid": 1201540,
-      "name": "HELLCARD",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201540/header.jpg?t=1778601414",
-      "verified": true
-    },
-    "pheonix-point-30": {
-      "appid": 839770,
-      "name": "Phoenix Point",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/11a54f36e60fbfd2d0c0d4ba3f8794be98c4bb14/header.jpg?t=1765463457",
-      "verified": true
-    },
-    "art-of-reflection-31": {
-      "appid": 2290770,
-      "name": "The Art of Reflection",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290770/header.jpg?t=1764608311",
-      "verified": true
-    },
-    "dyson-sphere-progam-32": {
-      "appid": 1366540,
-      "name": "Dyson Sphere Program",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366540/2521472f3f71b6f179515fdcfa33d27c212ba3ce/header.jpg?t=1776523171",
-      "verified": true
-    },
-    "bloomtown-33": {
-      "appid": 2445990,
-      "name": "Bloomtown: A Different Story",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445990/0493011e96fb4b23c836aa00f5728aef98c120e8/header.jpg?t=1769429309",
-      "verified": true
-    },
-    "wantless-34": {
-      "appid": 1807090,
-      "name": "Wantless : Solace at World’s End",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1807090/header.jpg?t=1741270807",
-      "verified": true
-    },
-    "colonyship-35": {
-      "appid": 648410,
-      "name": "Colony Ship: A Post-Earth Role Playing Game",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648410/e4754eade8af3fefe6856cc502ce6df3429b8792/header.jpg?t=1774881392",
-      "verified": true
-    },
-    "atlyss-36": {
-      "appid": 2768430,
-      "name": "ATLYSS",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/header.jpg?t=1764521441",
-      "verified": true
-    },
-    "sun-haven-37": {
-      "appid": 1432860,
-      "name": "Sun Haven",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/header.jpg?t=1741982676",
-      "verified": true
-    },
-    "horizons-gate-38": {
-      "appid": 1224290,
-      "name": "Horizon's Gate",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224290/header.jpg?t=1736551752",
-      "verified": true
-    },
-    "horizonm-zero-dawn-39": {
-      "appid": 1151640,
-      "name": "Horizon Zero Dawn™ Complete Edition",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788",
-      "verified": true
-    },
-    "rings-of-saturn-40": {
-      "appid": 846030,
-      "name": "ΔV: Rings of Saturn",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846030/header.jpg?t=1772017493",
-      "verified": true
-    },
-    "those-who-rule-41": {
-      "appid": 1822060,
-      "name": "Those Who Rule",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1822060/header.jpg?t=1774876404",
-      "verified": true
-    },
-    "the-last-spell-42": {
-      "appid": 1105670,
-      "name": "The Last Spell",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105670/header.jpg?t=1778181686",
-      "verified": true
-    },
-    "tactical-breach-wizards-43": {
-      "appid": 1043810,
-      "name": "Tactical Breach Wizards",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/header.jpg?t=1777560473",
-      "verified": true
-    },
-    "highfleet-44": {
-      "appid": 1434950,
-      "name": "HighFleet",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1434950/header.jpg?t=1769544197",
-      "verified": true
-    },
-    "the-perfect-tower-2-45": {
-      "appid": 1197260,
-      "name": "The Perfect Tower II",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1197260/6646db584a6ba37182863a3a3b0968fba84640c5/header.jpg?t=1764515126",
-      "verified": true
-    },
-    "eco-46": {
-      "appid": 382310,
-      "name": "Eco",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/382310/669bd5d9c8d2469a776d81011670f2889fac86b0/header.jpg?t=1776595525",
-      "verified": true
-    },
-    "portal-2-47": {
-      "appid": 620,
-      "name": "Portal 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004",
-      "verified": true
-    },
-    "portal-1-48": {
-      "appid": 400,
-      "name": "Portal",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
-      "verified": true
-    },
-    "dishonoured-1-49": {
-      "appid": 205100,
-      "name": "Dishonored",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/header.jpg?t=1750785977",
-      "verified": true
-    },
-    "dishonoured-2-50": {
-      "appid": 403640,
-      "name": "Dishonored 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403640/header.jpg?t=1750785918",
-      "verified": true
-    },
-    "half-life-1-51": {
-      "appid": 70,
-      "name": "Half-Life",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1745368462",
-      "verified": true
-    },
-    "outer-wilds-52": {
-      "appid": 753640,
-      "name": "Outer Wilds",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1779137571",
-      "verified": true
-    },
-    "outer-worlds-53": {
-      "appid": 578650,
-      "name": "The Outer Worlds",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578650/header.jpg?t=1776350110",
-      "verified": true
-    },
-    "witness-54": {
-      "appid": 210970,
-      "name": "The Witness",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/header.jpg?t=1720810823",
-      "verified": true
-    },
-    "baba-is-you-55": {
-      "appid": 736260,
-      "name": "Baba Is You",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736260/header.jpg?t=1760102539",
-      "verified": true
-    },
-    "prey-56": {
-      "appid": 480490,
-      "name": "Prey",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/header.jpg?t=1750785331",
-      "verified": true
-    },
-    "just-cause-2-57": {
-      "appid": 8190,
-      "name": "Just Cause 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg?t=1728396849",
-      "verified": true
-    },
-    "maize-58": {
-      "appid": 284240,
-      "name": "Maize",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284240/461061e2e3cfaca0dad1423f6bd5aa60b84f5d68/header.jpg?t=1744903300",
-      "verified": true
-    },
-    "doki-doki-literature-club-59": {
-      "appid": 698780,
-      "name": "Doki Doki Literature Club!",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/header.jpg?t=1681943582",
-      "verified": true
-    },
-    "fallout-new-vegas-60": {
-      "appid": 22380,
-      "name": "Fallout: New Vegas",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22380/header.jpg?t=1765992876",
-      "verified": true
-    },
-    "fallout-3-61": {
-      "appid": 22300,
-      "name": "Fallout 3",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/header.jpg?t=1732208474",
-      "verified": true
-    },
-    "fallout-4-62": {
-      "appid": 377160,
-      "name": "Fallout 4",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1764687456",
-      "verified": true
-    },
-    "skyrim-63": {
-      "appid": 489830,
-      "name": "The Elder Scrolls V: Skyrim Special Edition",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1753715778",
-      "verified": true
-    },
-    "orwell-64": {
-      "appid": 491950,
-      "name": "Orwell: Keeping an Eye On You",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491950/header.jpg?t=1770913154",
-      "verified": true
-    },
-    "scanner-sombre-65": {
-      "appid": 475190,
-      "name": "Scanner Sombre",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/475190/header.jpg?t=1739424284",
-      "verified": true
-    },
-    "curi-66": {
-      "appid": 1040230,
-      "name": "Curious Expedition 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040230/header.jpg?t=1745320591",
-      "verified": true
-    },
-    "the-shrouded-isl-67": {
-      "appid": 501320,
-      "name": "The Shrouded Isle",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501320/e2acf38acf7dc544f7f70c055984f594839520c0/header.jpg?t=1771535255",
-      "verified": true
-    },
-    "tiny-echo-68": {
-      "appid": 629770,
-      "name": "Tiny Echo",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629770/header.jpg?t=1761575555",
-      "verified": true
-    },
-    "wuppo-69": {
-      "appid": 400630,
-      "name": "Wuppo: Definitive Edition",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400630/header.jpg?t=1755845151",
-      "verified": true
-    },
-    "osiris-new-dawn-70": {
-      "appid": 402710,
-      "name": "Osiris: New Dawn",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/402710/header.jpg?t=1745496432",
-      "verified": true
-    },
-    "event-0-71": {
-      "appid": 470260,
-      "name": "Event[0]",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470260/header.jpg?t=1774622671",
-      "verified": true
-    },
-    "hyper-light-drifter-72": {
-      "appid": 257850,
-      "name": "Hyper Light Drifter",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/header.jpg?t=1762899660",
-      "verified": true
-    },
-    "borderlands-73": {
-      "appid": 1285190,
-      "name": "Borderlands 4",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1779392705",
-      "verified": true
-    },
-    "borderlands-2-74": {
-      "appid": 49520,
-      "name": "Borderlands 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg?t=1751931279",
-      "verified": true
-    },
-    "borderlands-pre-sequal-75": {
-      "appid": 261640,
-      "name": "Borderlands: The Pre-Sequel",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/header.jpg?t=1750081341",
-      "verified": true
-    },
-    "borderlands-3-76": {
-      "appid": 397540,
-      "name": "Borderlands 3",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg?t=1750802377",
-      "verified": true
-    },
-    "tales-from-the-borderlands-77": {
-      "appid": 330830,
-      "name": "Tales from the Borderlands",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330830/header.jpg?t=1777932543",
-      "verified": true
-    },
-    "norwoord-suite-78": {
-      "appid": 696480,
-      "name": "The Norwood Suite",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/696480/header.jpg?t=1741277937",
-      "verified": true
-    },
-    "what-remains-of-edith-finch-79": {
-      "appid": 501300,
-      "name": "What Remains of Edith Finch",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501300/header.jpg?t=1751995813",
-      "verified": true
-    },
-    "the-unfinished-swan-80": {
-      "appid": 1206430,
-      "name": "The Unfinished Swan",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206430/header.jpg?t=1729099245",
-      "verified": true
-    },
-    "superhot-81": {
-      "appid": 322500,
-      "name": "SUPERHOT",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322500/header.jpg?t=1726509130",
-      "verified": true
-    },
-    "superhot-vr-82": {
-      "appid": 617830,
-      "name": "SUPERHOT VR",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/header.jpg?t=1726509081",
-      "verified": true
-    },
-    "superhot-mcd-83": {
-      "appid": 690040,
-      "name": "SUPERHOT: MIND CONTROL DELETE",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/header.jpg?t=1726508997",
-      "verified": true
-    },
-    "creeper-world-4-84": {
-      "appid": 848480,
-      "name": "Creeper World 4",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848480/header.jpg?t=1688931316",
-      "verified": true
-    },
-    "opus-magnum-85": {
-      "appid": 558990,
-      "name": "Opus Magnum",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/6d8aa1ce08dd0c0e711e0eb068d9d9af6fdb3317/header.jpg?t=1774910584",
-      "verified": true
-    },
-    "exapunks-86": {
-      "appid": 716490,
-      "name": "EXAPUNKS",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/716490/header.jpg?t=1667071547",
-      "verified": true
-    },
-    "infinifactory-87": {
-      "appid": 300570,
-      "name": "Infinifactory",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300570/header.jpg?t=1667071348",
-      "verified": true
-    },
-    "secrets-of-grindea-88": {
-      "appid": 269770,
-      "name": "Secrets of Grindea",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269770/header.jpg?t=1709229612",
-      "verified": true
-    },
-    "gris-89": {
-      "appid": 683320,
-      "name": "GRIS",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683320/header.jpg?t=1759429603",
-      "verified": true
-    },
-    "horizon-zero-dawn-90": {
-      "appid": 2561580,
-      "name": "Horizon Zero Dawn™ Remastered",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/header.jpg?t=1750952943",
-      "verified": true
-    },
-    "ftl-faster-than-light-91": {
-      "appid": 212680,
-      "name": "FTL: Faster Than Light",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/f21426ac9ad51338fa33becce88984758e07c38b/header.jpg?t=1748969356",
-      "verified": true
-    },
-    "into-the-breach-92": {
-      "appid": 590380,
-      "name": "Into the Breach",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/header.jpg?t=1755610784",
-      "verified": true
-    },
-    "dream-tactics-93": {
-      "appid": 1897650,
-      "name": "Dream Tactics",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897650/4d529c82edaabb23ce553fbf81a3d0d52177b854/header.jpg?t=1771878003",
-      "verified": true
-    },
-    "there-is-no-game-wrong-direction-94": {
-      "appid": 1240210,
-      "name": "There Is No Game: Wrong Dimension",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/header.jpg?t=1728289933",
-      "verified": true
-    },
-    "heart-of-the-machine-95": {
-      "appid": 2001070,
-      "name": "Heart of the Machine",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001070/3fd7995ae0214104d0a695a6968e096fa2574238/header.jpg?t=1778779877",
-      "verified": true
-    },
-    "world-end-economica-episode-01-96": {
-      "appid": 269250,
-      "name": "WORLD END ECONOMiCA episode.01",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269250/19ce847e1c6cfc354e981ec8db7587989ae3f088/header.jpg?t=1770345647",
-      "verified": true
-    },
-    "islands-of-insight-97": {
-      "appid": 2071500,
-      "name": "Islands of Insight",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071500/header.jpg?t=1730308751",
-      "verified": true
-    },
-    "renowned-explorers-international-society-98": {
-      "appid": 296970,
-      "name": "Renowned Explorers: International Society",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/296970/header.jpg?t=1678189270",
-      "verified": true
-    },
-    "mushroom-11-99": {
-      "appid": 243160,
-      "name": "Mushroom 11",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243160/header.jpg?t=1572465769",
-      "verified": true
-    },
-    "beholder-100": {
-      "appid": 475550,
-      "name": "Beholder",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/475550/header.jpg?t=1773119808",
-      "verified": true
-    },
-    "gigachess-101": {
-      "appid": 415910,
-      "name": "Gigachess",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415910/header.jpg?t=1736540423",
-      "verified": true
-    },
-    "song-of-the-deep-102": {
-      "appid": 460700,
-      "name": "Song of the Deep",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460700/header.jpg?t=1725992916",
-      "verified": true
-    },
-    "pony-island-103": {
-      "appid": 405640,
-      "name": "Pony Island",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405640/header.jpg?t=1720913107",
-      "verified": true
-    },
-    "brothers-a-tale-of-two-sons-104": {
-      "appid": 225080,
-      "name": "Brothers - A Tale of Two Sons",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225080/dbfc904916a519d4c0cbea79f898cf33fc231ee1/header.jpg?t=1776415514",
-      "verified": true
-    },
-    "kathy-rain-105": {
-      "appid": 370910,
-      "name": "Kathy Rain",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/370910/header.jpg?t=1726577236",
-      "verified": true
-    },
-    "battleblock-theatre-106": {
-      "appid": 238460,
-      "name": "BattleBlock Theater®",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238460/header.jpg?t=1779296698",
-      "verified": true
-    },
-    "lego-jurassic-world-107": {
-      "appid": 352400,
-      "name": "LEGO® Jurassic World",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/352400/header.jpg?t=1745540350",
-      "verified": true
-    },
-    "trucking-simulator-2-108": {
-      "appid": 227300,
-      "name": "Euro Truck Simulator 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1773641450",
-      "verified": true
-    },
-    "card-hunter-109": {
-      "appid": 293260,
-      "name": "Card Hunter",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/header.jpg?t=1724143840",
-      "verified": true
-    },
-    "kentucky-route-zero-110": {
-      "appid": 231200,
-      "name": "Kentucky Route Zero: PC Edition",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231200/header.jpg?t=1692292539",
-      "verified": true
-    },
-    "broken-age-111": {
-      "appid": 232790,
-      "name": "Broken Age",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/232790/572a9976a7bbab14b2d740ba130c3166ca92a5c6/header.jpg?t=1776459059",
-      "verified": true
-    },
-    "titan-souls-112": {
-      "appid": 297130,
-      "name": "Titan Souls",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297130/header.jpg?t=1751460426",
-      "verified": true
-    },
-    "big-pharma-113": {
-      "appid": 344850,
-      "name": "Big Pharma",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/344850/header.jpg?t=1728241293",
-      "verified": true
-    },
-    "oxenfree-114": {
-      "appid": 388880,
-      "name": "Oxenfree",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388880/header.jpg?t=1718924110",
-      "verified": true
-    },
-    "technobabylon-115": {
-      "appid": 307580,
-      "name": "Technobabylon",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307580/header.jpg?t=1733231949",
-      "verified": true
-    },
-    "civ-v-116": {
-      "appid": 8930,
-      "name": "Sid Meier's Civilization® V",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/header.jpg?t=1724341158",
-      "verified": true
-    },
-    "zup-117": {
-      "appid": 617670,
-      "name": "Zup! S",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617670/header.jpg?t=1674745654",
-      "verified": true
-    },
-    "blueprint-tycoon-118": {
-      "appid": 454060,
-      "name": "Blueprint Tycoon",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454060/header.jpg?t=1725191233",
-      "verified": true
-    },
-    "adventure-communist-119": {
-      "appid": 462930,
-      "name": "AdVenture Communist",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462930/header.jpg?t=1721081621",
-      "verified": true
-    },
-    "grow-up-120": {
-      "appid": 426790,
-      "name": "Grow Up",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/426790/header.jpg?t=1773071931",
-      "verified": true
-    },
-    "reprisal-universe-121": {
-      "appid": 319560,
-      "name": "Reprisal Universe",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319560/header.jpg?t=1478094276",
-      "verified": true
-    },
-    "hammerwatch-122": {
-      "appid": 239070,
-      "name": "Hammerwatch",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239070/1719e8fc3bd6d9289fca3a55eafebfdb32204074/header.jpg?t=1775655744",
-      "verified": true
-    },
-    "holy-potatoes-a-weapon-shop-123": {
-      "appid": 363600,
-      "name": "Holy Potatoes! A Weapon Shop?!",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363600/header.jpg?t=1569148228",
-      "verified": true
-    },
-    "hand-of-fate-124": {
-      "appid": 266510,
-      "name": "Hand of Fate",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/header.jpg?t=1764738555",
-      "verified": true
-    },
-    "slots-daggers-125": {
-      "appid": 3631290,
-      "name": "Slots & Daggers",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/e6717abc9fe7d15049543614ffd69317b9e1e4b4/header.jpg?t=1777913228",
-      "verified": true
-    },
-    "berry-bury-berry-126": {
-      "appid": 3370870,
-      "name": "Berry Bury Berry",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3370870/4622468af31c1bbd2d87e53a1971719d1cead354/header.jpg?t=1779122241",
-      "verified": true
-    },
-    "pony-island-127": {
-      "appid": 405640,
-      "name": "Pony Island",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405640/header.jpg?t=1720913107",
-      "verified": true
-    },
-    "kynseed-128": {
-      "appid": 758870,
-      "name": "Kynseed",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758870/header.jpg?t=1772618094",
-      "verified": true
-    },
-    "shenzhen-i-o-129": {
-      "appid": 504210,
-      "name": "SHENZHEN I/O",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504210/header.jpg?t=1667071700",
-      "verified": true
-    },
-    "there-is-no-cave-130": {
-      "appid": 1240210,
-      "name": "There Is No Game: Wrong Dimension",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/header.jpg?t=1728289933",
-      "verified": true
-    },
-    "linelith-131": {
-      "appid": 1923790,
-      "name": "Linelith",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923790/header.jpg?t=1745611800",
-      "verified": true
-    },
-    "realms-of-magic-132": {
-      "appid": 490280,
-      "name": "Realms of Magic",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490280/header.jpg?t=1745487219",
-      "verified": true
-    },
-    "calvins-gallery-133": {
-      "appid": 4104830,
-      "name": "Calvin's Gallery",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104830/ed5c758ff6318d529c1c5093d0fb21edac76182e/header.jpg?t=1779332604",
-      "verified": true
-    },
-    "leap-year-134": {
-      "appid": 2951770,
-      "name": "Leap Year",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951770/header.jpg?t=1740754366",
-      "verified": true
-    },
-    "handshakes-135": {
-      "appid": 2171690,
-      "name": "Handshakes",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171690/header.jpg?t=1777484216",
-      "verified": true
-    },
-    "the-magic-circle-136": {
-      "appid": 323380,
-      "name": "The Magic Circle",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323380/header.jpg?t=1572638858",
-      "verified": true
-    },
-    "mad-max-137": {
-      "appid": 234140,
-      "name": "Mad Max",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234140/header.jpg?t=1773442092",
-      "verified": true
-    },
-    "l-a-noire-138": {
-      "appid": 110800,
-      "name": "L.A. Noire",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/110800/header.jpg?t=1741117102",
-      "verified": true
-    },
-    "hook-139": {
-      "appid": 367580,
-      "name": "Hook",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/header.jpg?t=1728467031",
-      "verified": true
-    },
-    "farming-simulator-2013-140": {
-      "appid": 220285,
-      "name": "Farming Simulator 2013: Ursus",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220285/header.jpg?t=1496329516",
-      "verified": true
-    },
-    "farming-simulator-2015-141": {
-      "appid": 313160,
-      "name": "Farming Simulator 15",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313160/header.jpg?t=1593434409",
-      "verified": true
-    },
-    "farming-simulator-2017-142": {
-      "appid": 447020,
-      "name": "Farming Simulator 17",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg?t=1658488796",
-      "verified": true
-    },
-    "farming-simulator-2019-143": {
-      "appid": 787860,
-      "name": "Farming Simulator 19",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/header.jpg?t=1674664652",
-      "verified": true
-    },
     "evoland-1-144": {
       "appid": 233470,
       "name": "Evoland",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233470/header.jpg?t=1716563896",
+      "verified": true
+    },
+    "evoland 2": {
+      "appid": 359310,
+      "name": "Evoland 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359310/header.jpg?t=1737537707",
       "verified": true
     },
     "evoland-2-145": {
