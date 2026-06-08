@@ -1,6 +1,6 @@
 {
-  "version": 1780948161973,
-  "exportedAt": "2026-06-08T19:49:21.973Z",
+  "version": 1780948674553,
+  "exportedAt": "2026-06-08T19:57:54.553Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -110,7 +110,7 @@
     {
       "status": "Completed",
       "title": "Gremlins vs Automatons",
-      "rating": null,
+      "rating": 6,
       "date": "2019-02-13",
       "feelings": "An actually decent board game.  I remember playing this alongside Civ 5 as a kid.",
       "id": "gremlins-vs-automatons-mq1kwnh1"
