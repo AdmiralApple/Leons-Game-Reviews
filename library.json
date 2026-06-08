@@ -1,6 +1,6 @@
 {
-  "version": 1780947226878,
-  "exportedAt": "2026-06-08T19:33:46.878Z",
+  "version": 1780947258392,
+  "exportedAt": "2026-06-08T19:34:18.392Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -502,7 +502,7 @@
     {
       "status": "Dropped",
       "title": "Wildfrost",
-      "rating": 6,
+      "rating": 5,
       "date": "2024-12-16",
       "feelings": "While the gameplay itself it fine, I feel that after the first few hours theres nothing to intriguing to it.  Each run doesnt feel that different and the exceptional runs are few and far between.  Still, nice graphics and gamefeel though.",
       "id": "wildfrost-mph8kdt6"
