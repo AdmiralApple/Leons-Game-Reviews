@@ -1,8 +1,16 @@
 {
-  "version": 1780958377940,
-  "exportedAt": "2026-06-08T22:39:37.940Z",
+  "version": 1780958392606,
+  "exportedAt": "2026-06-08T22:39:52.606Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Plan to",
+      "title": "Detroit: Become Human",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "detroit-become-human-mq5sn3ho"
+    },
     {
       "status": "Plan to",
       "title": "Titan Chaser",
