@@ -1,8 +1,16 @@
 {
-  "version": 1780957562140,
-  "exportedAt": "2026-06-08T22:26:02.140Z",
+  "version": 1780957628240,
+  "exportedAt": "2026-06-08T22:27:08.240Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Plan to",
+      "title": "Astral Ascent",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "astral-ascent-mq5s6pox"
+    },
     {
       "status": "Plan to",
       "title": "Landlord's Super",
