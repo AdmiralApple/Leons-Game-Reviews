@@ -1,8 +1,16 @@
 {
-  "version": 1780957474320,
-  "exportedAt": "2026-06-08T22:24:34.320Z",
+  "version": 1780957562140,
+  "exportedAt": "2026-06-08T22:26:02.140Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Plan to",
+      "title": "Landlord's Super",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "landlord-s-super-mq5s5ap5"
+    },
     {
       "status": "Plan to",
       "title": "STEINS;GATE",
