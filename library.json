@@ -1,6 +1,6 @@
 {
-  "version": 1780947162864,
-  "exportedAt": "2026-06-08T19:32:42.864Z",
+  "version": 1780947226878,
+  "exportedAt": "2026-06-08T19:33:46.878Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -719,7 +719,7 @@
       "id": "strange-jigsaws-10",
       "title": "strange jigsaws",
       "status": "Completed",
-      "rating": 8,
+      "rating": 7,
       "date": "2025-08-07",
       "feelings": "great follow up to 20 small mazes.  I got really sad when the goblin at the end said \"ill miss you\", because I knew id never see it again."
     },
