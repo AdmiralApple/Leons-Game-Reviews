@@ -1,8 +1,16 @@
 {
-  "version": 1780958465278,
-  "exportedAt": "2026-06-08T22:41:05.278Z",
+  "version": 1780958501674,
+  "exportedAt": "2026-06-08T22:41:41.674Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Plan to",
+      "title": "Solasta: Crown of the Magister",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "solasta-crown-of-the-magister-mq5spfnd"
+    },
     {
       "status": "Plan to",
       "title": "A Space for the Unbound",
