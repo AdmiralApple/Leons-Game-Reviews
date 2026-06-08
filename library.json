@@ -1,8 +1,16 @@
 {
-  "version": 1780957387939,
-  "exportedAt": "2026-06-08T22:23:07.939Z",
+  "version": 1780957446429,
+  "exportedAt": "2026-06-08T22:24:06.429Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Plan to",
+      "title": "Spiritfarer®: Farewell Edition",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "spiritfarer-farewell-edition-mq5s2te9"
+    },
     {
       "status": "Plan to",
       "title": "Mars First Logistics",
