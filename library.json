@@ -1,8 +1,16 @@
 {
-  "version": 1780946910001,
-  "exportedAt": "2026-06-08T19:28:30.001Z",
+  "version": 1780947125303,
+  "exportedAt": "2026-06-08T19:32:05.303Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Dropped",
+      "title": "Let Them Trade",
+      "rating": 4,
+      "date": "2026-06-08",
+      "feelings": "Gameplay loop just wasnt very interesting.  Once youve played the first hour you kind of get the feel for how the game is.",
+      "id": "let-them-trade-mq5lxlkm"
+    },
     {
       "status": "Completed",
       "title": "The Tiny Bang Story",
