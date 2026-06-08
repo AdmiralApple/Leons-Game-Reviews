@@ -1,8 +1,16 @@
 {
-  "version": 1780957666688,
-  "exportedAt": "2026-06-08T22:27:46.688Z",
+  "version": 1780957702655,
+  "exportedAt": "2026-06-08T22:28:22.655Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Plan to",
+      "title": "BlazBlue Entropy Effect",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "blazblue-entropy-effect-mq5s8b41"
+    },
     {
       "status": "Plan to",
       "title": "FOUNDRY",
