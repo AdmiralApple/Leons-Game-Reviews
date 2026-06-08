@@ -1,8 +1,16 @@
 {
-  "version": 1780948869978,
-  "exportedAt": "2026-06-08T20:01:09.978Z",
+  "version": 1780949004431,
+  "exportedAt": "2026-06-08T20:03:24.431Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Knights End",
+      "rating": 5,
+      "date": "2026-06-08",
+      "feelings": "Fun with friends, but the loop gets old quick",
+      "id": "knights-end-mq5n1vik"
+    },
     {
       "status": "Dropped",
       "title": "Replicube",
