@@ -1,8 +1,16 @@
 {
-  "version": 1781290895156,
-  "exportedAt": "2026-06-12T19:01:35.156Z",
+  "version": 1781291274301,
+  "exportedAt": "2026-06-12T19:07:54.301Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "AMaze DOS",
+      "rating": 1,
+      "date": "2026-06-12",
+      "feelings": "Its just... a maze generator.  for 5$.  Worst possible input schema to navigate the maze.  i could get better results by typing \"make a playable maze generator\" into chatGPT.",
+      "id": "amaze-dos-mqbatwmy"
+    },
     {
       "status": "Plan to",
       "title": "The Bunny Graveyard",
