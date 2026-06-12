@@ -1,8 +1,16 @@
 {
-  "version": 1781290570540,
-  "exportedAt": "2026-06-12T18:56:10.540Z",
+  "version": 1781290732061,
+  "exportedAt": "2026-06-12T18:58:52.061Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Playing",
+      "title": "Magicraft",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "magicraft-mqbaia01"
+    },
     {
       "status": "Plan to",
       "title": "Elin",
