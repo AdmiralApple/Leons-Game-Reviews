@@ -1,8 +1,16 @@
 {
-  "version": 1781712983153,
-  "exportedAt": "2026-06-17T16:16:23.153Z",
+  "version": 1781715540928,
+  "exportedAt": "2026-06-17T16:59:00.928Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Potatoman Seeks the Troof",
+      "rating": 3,
+      "date": "2026-06-17",
+      "feelings": "No save, gameplay was short.  Final level gives you a headache.  You can never really enjoy the dialogue because you are always running from something.",
+      "id": "potatoman-seeks-the-troof-mqibfevp"
+    },
     {
       "status": "Plan to",
       "title": "Icaria",
