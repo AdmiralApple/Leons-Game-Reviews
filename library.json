@@ -1,8 +1,16 @@
 {
-  "version": 1782682707784,
-  "exportedAt": "2026-06-28T21:38:27.784Z",
+  "version": 1782682943190,
+  "exportedAt": "2026-06-28T21:42:23.190Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Plan to",
+      "title": "Chrono Trigger",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "chrono-trigger-mqybe789"
+    },
     {
       "status": "Plan to",
       "title": "A Plague Tale: Innocence",
