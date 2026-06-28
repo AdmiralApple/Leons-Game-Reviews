@@ -1,8 +1,16 @@
 {
-  "version": 1782682703377,
-  "exportedAt": "2026-06-28T21:38:23.377Z",
+  "version": 1782682707784,
+  "exportedAt": "2026-06-28T21:38:27.784Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Plan to",
+      "title": "A Plague Tale: Innocence",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "a-plague-tale-innocence-mqyb95l6"
+    },
     {
       "status": "Plan to",
       "title": "The Invincible",
