@@ -25,6 +25,8 @@ const steamOverrides = {
   'osiris new dawn': { appid: 402710, name: 'Osiris: New Dawn' },
   'borderlands pre sequal': { appid: 261640, name: 'Borderlands: The Pre-Sequel' },
   'norwoord suite': { appid: 696480, name: 'The Norwood Suite' },
+  'unheard voices of crime': { appid: 942970, name: 'Unheard - Voices of Crime' },
+  'little nightmares enhanced edition': { appid: 424840, name: 'Little Nightmares' },
   'superhot mcd': { appid: 690040, name: 'SUPERHOT: MIND CONTROL DELETE' },
   'battleblock theatre': { appid: 238460, name: 'BattleBlock Theater' },
   'trucking simulator 2': { appid: 227300, name: 'Euro Truck Simulator 2' },
@@ -33,6 +35,15 @@ const steamOverrides = {
   'farming simulator 2019': { appid: 787860, name: 'Farming Simulator 19' },
   'evoland 1': { appid: 233470, name: 'Evoland' },
   'this is no cave': { appid: 2852760, name: 'This Is No Cave' },
+};
+
+const externalCoverOverrides = {
+  'gremlins vs automatons': {
+    name: 'Gremlins vs Automatons',
+    url: 'https://images.launchbox-app.com/b80a44bf-70fb-4122-a9e6-171a8db47372.png',
+    source: 'LaunchBox Games Database',
+    verified: true,
+  },
 };
 
 function normalizeTitle(title) {
@@ -192,6 +203,12 @@ async function main() {
   for (const game of games) {
     const key = normalizeTitle(game.title);
     if (!key) continue;
+
+    if (externalCoverOverrides[key]) {
+      writeCover(output.covers, game, externalCoverOverrides[key]);
+      console.log(`= ${game.title} -> external cover`);
+      continue;
+    }
 
     if (steamOverrides[key]) {
       const override = steamOverrides[key];
