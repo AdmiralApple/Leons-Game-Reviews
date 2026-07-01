@@ -1,6 +1,6 @@
 {
-  "version": 1782683224246,
-  "exportedAt": "2026-06-28T21:47:04.246Z",
+  "version": 1782928206318,
+  "exportedAt": "2026-07-01T17:50:06.318Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -92,11 +92,11 @@
       "id": "time-walker-dark-world-mqbajuy0"
     },
     {
-      "status": "Playing",
+      "status": "Completed",
       "title": "Magicraft",
-      "rating": null,
-      "date": null,
-      "feelings": null,
+      "rating": 8,
+      "date": "2026-06-29",
+      "feelings": "This game was more fun than I thought itd be going into it.  I enjoyed the want building here a lot more that i did in Noita.  The characters were fun, the upgrades were fun.  You can really tell this is a chinese game.  Completed in 12.4 hours and Although i have some upgrades yet to unlock, I think im done.  I dont want to overstay the welcome and let certain build paths get stale.",
       "id": "magicraft-mqbaia01"
     },
     {
