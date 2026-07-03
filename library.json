@@ -1,8 +1,16 @@
 {
-  "version": 1782928206318,
-  "exportedAt": "2026-07-01T17:50:06.318Z",
+  "version": 1783054983177,
+  "exportedAt": "2026-07-03T05:03:03.177Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Dice A Million",
+      "rating": 6,
+      "date": "2026-07-03",
+      "feelings": "Not bad for a Balatro-like.  The costs of things are strange, and many dice seem completely unusable, but it DOES have fun moments, which is the point methinks",
+      "id": "dice-a-million-mr4gwb3s"
+    },
     {
       "status": "Plan to",
       "title": "Chrono Trigger",
