@@ -1,6 +1,6 @@
 {
-  "version": 1783054992415,
-  "exportedAt": "2026-07-03T05:03:12.415Z",
+  "version": 1783055024431,
+  "exportedAt": "2026-07-03T05:03:44.431Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -1174,10 +1174,10 @@
     {
       "id": "fields-of-mistria-14",
       "title": "fields of mistria",
-      "status": "Playing",
+      "status": "On Hold",
       "rating": null,
       "date": null,
-      "feelings": null
+      "feelings": "On hold until the engine gets updated.  Crashes are too frequent"
     },
     {
       "id": "arco-15",
