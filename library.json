@@ -1,8 +1,16 @@
 {
-  "version": 1783055024431,
-  "exportedAt": "2026-07-03T05:03:44.431Z",
+  "version": 1783055031973,
+  "exportedAt": "2026-07-03T05:03:51.973Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Playing",
+      "title": "Chrono Trigger",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "chrono-trigger-mr4gxcsi"
+    },
     {
       "status": "Playing",
       "title": "Black Jacket",
