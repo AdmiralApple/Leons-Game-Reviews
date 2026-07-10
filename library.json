@@ -1,6 +1,6 @@
 {
-  "version": 1783716957578,
-  "exportedAt": "2026-07-10T20:55:57.578Z",
+  "version": 1783717198951,
+  "exportedAt": "2026-07-10T20:59:58.951Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -38,7 +38,7 @@
     {
       "status": "Completed",
       "title": "Dice A Million",
-      "rating": 6,
+      "rating": 7,
       "date": "2026-07-03",
       "feelings": "Not bad for a Balatro-like.  The costs of things are strange, and many dice seem completely unusable, but it DOES have fun moments, which is the point methinks",
       "id": "dice-a-million-mr4gwb3s"
