@@ -1,6 +1,6 @@
 {
-  "version": 1783717262000,
-  "exportedAt": "2026-07-10T21:01:02.000Z",
+  "version": 1783717300949,
+  "exportedAt": "2026-07-10T21:01:40.949Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -934,7 +934,7 @@
     {
       "status": "Dropped",
       "title": "Conqueror's Blade",
-      "rating": 2,
+      "rating": 3,
       "date": "2026-05-23",
       "feelings": "\"Warlord! Heres another pop-up to distract you mid-battle!\"  Terrible UI, terrible tutorial.  Combat has its moments.",
       "id": "conqueror-s-blade-mpiti1mh"
