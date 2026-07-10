@@ -1,6 +1,6 @@
 {
-  "version": 1783717243062,
-  "exportedAt": "2026-07-10T21:00:43.062Z",
+  "version": 1783717262000,
+  "exportedAt": "2026-07-10T21:01:02.000Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -110,7 +110,7 @@
     {
       "status": "Completed",
       "title": "AMaze DOS",
-      "rating": 1,
+      "rating": 0,
       "date": "2026-06-12",
       "feelings": "Its just... a maze generator.  for 5$.  Worst possible input schema to navigate the maze.  i could get better results by typing \"make a playable maze generator\" into chatGPT.",
       "id": "amaze-dos-mqbatwmy"
