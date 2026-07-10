@@ -1,6 +1,6 @@
 {
-  "version": 1783717198951,
-  "exportedAt": "2026-07-10T20:59:58.951Z",
+  "version": 1783717218309,
+  "exportedAt": "2026-07-10T21:00:18.309Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -414,7 +414,7 @@
     {
       "status": "Dropped",
       "title": "CRYPTARK",
-      "rating": 4,
+      "rating": 2,
       "date": "2026-06-08",
       "feelings": "Gameplay got stale quick.  Bad voice acting.",
       "id": "cryptark-mq5rxlce"
