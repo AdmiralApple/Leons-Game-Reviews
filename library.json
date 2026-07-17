@@ -1,8 +1,16 @@
 {
-  "version": 1783959436644,
-  "exportedAt": "2026-07-13T16:17:16.644Z",
+  "version": 1784251319186,
+  "exportedAt": "2026-07-17T01:21:59.186Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Titanfall 2",
+      "rating": 9,
+      "date": null,
+      "feelings": "Great singleplayer experience.  But even better multiplayer.  Multiplayer has the greatest movement ive experienced in a multiplayer game.  Rodeoing enemy titans and stealing their battery is some of the most fun ive had in multiplayer.\nGive us titanfall 3 you bastards.",
+      "id": "titanfall-2-mro95xvu"
+    },
     {
       "status": "Completed",
       "title": "Kabuto Park",
