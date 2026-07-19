@@ -1,6 +1,6 @@
 {
-  "version": 1784251319186,
-  "exportedAt": "2026-07-17T01:21:59.186Z",
+  "version": 1784430228202,
+  "exportedAt": "2026-07-19T03:03:48.202Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -36,11 +36,11 @@
       "id": "chrono-trigger-mr4gxcsi"
     },
     {
-      "status": "Playing",
+      "status": "Dropped",
       "title": "Black Jacket",
-      "rating": null,
-      "date": null,
-      "feelings": null,
+      "rating": 5,
+      "date": "2026-07-18",
+      "feelings": "Great thematics and voice acting, but gameplay is lacking hard.  DeckBuilding just isnt fun.",
       "id": "black-jacket-mr4gwi8r"
     },
     {
