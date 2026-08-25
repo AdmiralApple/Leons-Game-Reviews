@@ -1,6 +1,6 @@
 {
-  "version": 1787643212486,
-  "exportedAt": "2026-08-25T07:33:32.486Z",
+  "version": 1787643261534,
+  "exportedAt": "2026-08-25T07:34:21.534Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -1394,14 +1394,6 @@
       "rating": 10,
       "date": "2025-02-18",
       "feelings": "Ill always remember this RPG.  Cool mechanics, memorable characters."
-    },
-    {
-      "id": "horizonm-zero-dawn-39",
-      "title": "Horizonm zero dawn",
-      "status": "Plan to",
-      "rating": null,
-      "date": null,
-      "feelings": null
     },
     {
       "id": "rings-of-saturn-40",
