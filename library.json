@@ -1,6 +1,6 @@
 {
-  "version": 1787643166182,
-  "exportedAt": "2026-08-25T07:32:46.182Z",
+  "version": 1787643212486,
+  "exportedAt": "2026-08-25T07:33:32.486Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -1374,10 +1374,10 @@
     {
       "id": "atlyss-36",
       "title": "Atlyss",
-      "status": "Plan to",
-      "rating": null,
-      "date": null,
-      "feelings": null
+      "status": "Dropped",
+      "rating": 4,
+      "date": "2026-08-25",
+      "feelings": "Fell a bit below expectations.  world was meh, characters were meh.  Just meh."
     },
     {
       "id": "sun-haven-37",
