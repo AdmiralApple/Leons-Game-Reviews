@@ -1,6 +1,6 @@
 {
-  "version": 1787643261534,
-  "exportedAt": "2026-08-25T07:34:21.534Z",
+  "version": 1787643300093,
+  "exportedAt": "2026-08-25T07:35:00.093Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -484,11 +484,11 @@
       "id": "ruiner-mq1muv7u"
     },
     {
-      "status": "Plan to",
+      "status": "Dropped",
       "title": "Kingsway",
-      "rating": null,
-      "date": null,
-      "feelings": null,
+      "rating": 5,
+      "date": "2026-08-25",
+      "feelings": "Mechanics are cool, but they get old quick, and out-of-run currency takes too long to obtain.",
       "id": "kingsway-mq1msb6n"
     },
     {
