@@ -1,6 +1,6 @@
 {
-  "version": 1784430228202,
-  "exportedAt": "2026-07-19T03:03:48.202Z",
+  "version": 1787643166182,
+  "exportedAt": "2026-08-25T07:32:46.182Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -676,11 +676,11 @@
       "id": "dorfromantik-mpz7fuv1"
     },
     {
-      "status": "Playing",
+      "status": "Completed",
       "title": "Digimon Story Time Stranger",
-      "rating": null,
-      "date": null,
-      "feelings": null,
+      "rating": 8,
+      "date": "2026-08-25",
+      "feelings": "100%'d the field guide.\nGreat ending, great characters.\nI was sad, because when you play a game that long, a little piece of who you were playing as becomes part of you (assuming you immerse yourself enough).  And when the game is over that piece of you becomes disconnected.\nReally good overall, recommend only on sale as 70$ is ridiculous.",
       "id": "digimon-story-time-stranger-mpz7ff16"
     },
     {
