@@ -1,8 +1,16 @@
 {
-  "version": 1787973384069,
-  "exportedAt": "2026-08-29T03:16:24.069Z",
+  "version": 1787973442346,
+  "exportedAt": "2026-08-29T03:17:22.346Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Factorio",
+      "rating": 10,
+      "date": "2026-08-28",
+      "feelings": "The perfect factory game.  This is to the factory genre what Baba is You is to the puzzle genre.  Its pure, its perfect, its got mod support.",
+      "id": "factorio-mtdt7yi2"
+    },
     {
       "status": "Completed",
       "title": "Tabletop Simulator",
