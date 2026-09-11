@@ -1,6 +1,6 @@
 {
-  "version": 1789097080276,
-  "exportedAt": "2026-09-11T03:24:40.276Z",
+  "version": 1789100861053,
+  "exportedAt": "2026-09-11T04:27:41.053Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -220,11 +220,11 @@
       "id": "shelldiver-mqb1hsnf"
     },
     {
-      "status": "Plan to",
+      "status": "Completed",
       "title": "Dagon: by H. P. Lovecraft",
-      "rating": null,
-      "date": null,
-      "feelings": null,
+      "rating": 6,
+      "date": "2026-09-10",
+      "feelings": "I think it a shame that HP didnt get the recognition he deserved until after his death as many artists do.  But this game is a nice way to show how much the devs appreciate the themeing.\nGame took 45 mins to beat, but it was free so I cant complain",
       "id": "dagon-by-h-p-lovecraft-mq5sxoxe"
     },
     {
