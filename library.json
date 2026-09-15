@@ -1,6 +1,6 @@
 {
-  "version": 1789512944655,
-  "exportedAt": "2026-09-15T22:55:44.655Z",
+  "version": 1789512989418,
+  "exportedAt": "2026-09-15T22:56:29.418Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -452,11 +452,11 @@
       "id": "spiritfarer-farewell-edition-mq5s2te9"
     },
     {
-      "status": "Plan to",
+      "status": "Completed",
       "title": "Mars First Logistics",
-      "rating": null,
-      "date": null,
-      "feelings": null,
+      "rating": 9,
+      "date": "2026-09-15",
+      "feelings": "This game is nearly flawless.  Great builder, great graphics, fun music.  All around enjoyable",
       "id": "mars-first-logistics-mq5s1k95"
     },
     {
