@@ -1,8 +1,16 @@
 {
-  "version": 1789512989418,
-  "exportedAt": "2026-09-15T22:56:29.418Z",
+  "version": 1790054824935,
+  "exportedAt": "2026-09-22T05:27:04.935Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "The Artisan of Glimmith",
+      "rating": 9,
+      "date": "2026-09-22",
+      "feelings": "Artisan of Glimmith is an objectively good puzzle game.  Each puzzle has a single solution and can be determined without having to guess the whole puzzle (some short term guessing may be needed for higher difficulties.)\nGame features great music, good visuals, and puzzles that build on each other.\nThe only thing stopping this game from being a 10/10 is meta puzzles.  I LOVE meta puzzles!",
+      "id": "the-artisan-of-glimmith-muc8f7lq"
+    },
     {
       "status": "Completed",
       "title": "Dwarf Eats Mountain",
