@@ -3,7 +3,7 @@ name: Update Steam covers
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - library.json
       - scripts/update-steam-covers.js

@@ -1,11 +1,161 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-29T03:07:24.573Z",
+  "generatedAt": "2026-09-29T18:52:13.487Z",
   "covers": {
+    "zero parades for dead spies": {
+      "appid": 2863680,
+      "name": "ZERO PARADES: For Dead Spies",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/9bb6aa338885131045ddb7e124e67b359ea61d90/header.jpg?t=1786953986",
+      "verified": true
+    },
+    "zero-parades-for-dead-spies-mun0zz0y": {
+      "appid": 2863680,
+      "name": "ZERO PARADES: For Dead Spies",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/9bb6aa338885131045ddb7e124e67b359ea61d90/header.jpg?t=1786953986",
+      "verified": true
+    },
+    "the artisan of glimmith": {
+      "appid": 4160210,
+      "name": "The Artisan of Glimmith",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9ee76e41d658980856feaf5b4b9380866c428db5/header.jpg?t=1787947050",
+      "verified": true
+    },
+    "the-artisan-of-glimmith-muc8f7lq": {
+      "appid": 4160210,
+      "name": "The Artisan of Glimmith",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9ee76e41d658980856feaf5b4b9380866c428db5/header.jpg?t=1787947050",
+      "verified": true
+    },
+    "dwarf eats mountain": {
+      "appid": 4078200,
+      "name": "Dwarf Eats Mountain",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078200/92169b31b645d10982a3bf281f94a4183f2cb12b/header.jpg?t=1789941732",
+      "verified": true
+    },
+    "dwarf-eats-mountain-mu39stz3": {
+      "appid": 4078200,
+      "name": "Dwarf Eats Mountain",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078200/92169b31b645d10982a3bf281f94a4183f2cb12b/header.jpg?t=1789941732",
+      "verified": true
+    },
+    "melvor idle": {
+      "appid": 1267910,
+      "name": "Melvor Idle",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/header.jpg?t=1789749689",
+      "verified": true
+    },
+    "melvor-idle-mtdtc2x0": {
+      "appid": 1267910,
+      "name": "Melvor Idle",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/header.jpg?t=1789749689",
+      "verified": true
+    },
+    "grand theft auto v": {
+      "appid": 3240220,
+      "name": "Grand Theft Auto V Enhanced",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "verified": true
+    },
+    "grand-theft-auto-v-mtdtaim9": {
+      "appid": 3240220,
+      "name": "Grand Theft Auto V Enhanced",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "verified": true
+    },
+    "factorio": {
+      "appid": 427520,
+      "name": "Factorio",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ab9a2df0a77caebde20dc45adc021de8cdcf7cc5/header.jpg?t=1787348817",
+      "verified": true
+    },
+    "factorio-mtdt7yi2": {
+      "appid": 427520,
+      "name": "Factorio",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ab9a2df0a77caebde20dc45adc021de8cdcf7cc5/header.jpg?t=1787348817",
+      "verified": true
+    },
+    "tabletop simulator": {
+      "appid": 286160,
+      "name": "Tabletop Simulator",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg?t=1772387518",
+      "verified": true
+    },
+    "tabletop-simulator-mtdt6piy": {
+      "appid": 286160,
+      "name": "Tabletop Simulator",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg?t=1772387518",
+      "verified": true
+    },
+    "titanfall 2": {
+      "appid": 1237970,
+      "name": "Titanfall® 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg?t=1779987598",
+      "verified": true
+    },
+    "titanfall-2-mro95xvu": {
+      "appid": 1237970,
+      "name": "Titanfall® 2",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg?t=1779987598",
+      "verified": true
+    },
+    "kabuto park": {
+      "appid": 3376990,
+      "name": "Kabuto Park",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376990/header.jpg?t=1788512434",
+      "verified": true
+    },
+    "kabuto-park-mrff0ptv": {
+      "appid": 3376990,
+      "name": "Kabuto Park",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376990/header.jpg?t=1788512434",
+      "verified": true
+    },
+    "bravely default": {
+      "appid": 1446650,
+      "name": "BRAVELY DEFAULT II",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446650/header.jpg?t=1785245876",
+      "verified": true
+    },
+    "bravely-default-mr4gxljr": {
+      "appid": 1446650,
+      "name": "BRAVELY DEFAULT II",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446650/header.jpg?t=1785245876",
+      "verified": true
+    },
     "chrono trigger": {
       "appid": 613830,
       "name": "CHRONO TRIGGER®",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/header.jpg?t=1775725860",
+      "verified": true
+    },
+    "chrono-trigger-mr4gxcsi": {
+      "appid": 613830,
+      "name": "CHRONO TRIGGER®",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/header.jpg?t=1775725860",
+      "verified": true
+    },
+    "black jacket": {
+      "appid": 3100370,
+      "name": "Black Jacket",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100370/ca230813d924de03d76ce5aecd347d754b0f29f8/header.jpg?t=1787676637",
+      "verified": true
+    },
+    "black-jacket-mr4gwi8r": {
+      "appid": 3100370,
+      "name": "Black Jacket",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100370/ca230813d924de03d76ce5aecd347d754b0f29f8/header.jpg?t=1787676637",
+      "verified": true
+    },
+    "dice a million": {
+      "appid": 3430340,
+      "name": "Dice A Million",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/1c3b412c428badb9f617a83caf8acdceab0659d2/header_alt_assets_0.jpg?t=1788551009",
+      "verified": true
+    },
+    "dice-a-million-mr4gwb3s": {
+      "appid": 3430340,
+      "name": "Dice A Million",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/1c3b412c428badb9f617a83caf8acdceab0659d2/header_alt_assets_0.jpg?t=1788551009",
       "verified": true
     },
     "chrono-trigger-mqybe789": {
@@ -1421,13 +1571,13 @@
     "psyconauts 1": {
       "appid": 3830,
       "name": "Psychonauts",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1776379310",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1787713000",
       "verified": true
     },
     "psyconauts-1-mph7t5bp": {
       "appid": 3830,
       "name": "Psychonauts",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1776379310",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1787713000",
       "verified": true
     },
     "he is coming": {
@@ -1817,13 +1967,13 @@
     "drg survivor": {
       "appid": 2321470,
       "name": "Deep Rock Galactic: Survivor",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1780935538",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1787051272",
       "verified": true
     },
     "drg-survivor-21": {
       "appid": 2321470,
       "name": "Deep Rock Galactic: Survivor",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1780935538",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1787051272",
       "verified": true
     },
     "red dead redemption 2": {
@@ -1865,13 +2015,13 @@
     "city game studio": {
       "appid": 726840,
       "name": "City Game Studio: Your Game Dev Adventure Begins",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/726840/c1845e0f55020a02c43a08af892c48386ced9c55/header_alt_assets_17.jpg?t=1780998427",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/726840/e36deae4f5e2af9cd6fcedf0d26505e15832bbe7/header_alt_assets_18.jpg?t=1789984751",
       "verified": true
     },
     "city-game-studio-25": {
       "appid": 726840,
       "name": "City Game Studio: Your Game Dev Adventure Begins",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/726840/c1845e0f55020a02c43a08af892c48386ced9c55/header_alt_assets_17.jpg?t=1780998427",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/726840/e36deae4f5e2af9cd6fcedf0d26505e15832bbe7/header_alt_assets_18.jpg?t=1789984751",
       "verified": true
     },
     "the drifter": {
@@ -1973,13 +2123,13 @@
     "colonyship": {
       "appid": 648410,
       "name": "Colony Ship: A Post-Earth Role Playing Game",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648410/e4754eade8af3fefe6856cc502ce6df3429b8792/header.jpg?t=1774881392",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648410/e4754eade8af3fefe6856cc502ce6df3429b8792/header.jpg?t=1788471098",
       "verified": true
     },
     "colonyship-35": {
       "appid": 648410,
       "name": "Colony Ship: A Post-Earth Role Playing Game",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648410/e4754eade8af3fefe6856cc502ce6df3429b8792/header.jpg?t=1774881392",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648410/e4754eade8af3fefe6856cc502ce6df3429b8792/header.jpg?t=1788471098",
       "verified": true
     },
     "atlyss": {
@@ -2016,18 +2166,6 @@
       "appid": 1224290,
       "name": "Horizon's Gate",
       "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224290/header.jpg?t=1736551752",
-      "verified": true
-    },
-    "horizonm zero dawn": {
-      "appid": 1151640,
-      "name": "Horizon Zero Dawn™ Complete Edition",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788",
-      "verified": true
-    },
-    "horizonm-zero-dawn-39": {
-      "appid": 1151640,
-      "name": "Horizon Zero Dawn™ Complete Edition",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788",
       "verified": true
     },
     "rings of saturn": {
@@ -2141,13 +2279,13 @@
     "dishonoured 1": {
       "appid": 205100,
       "name": "Dishonored",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/header.jpg?t=1750785977",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/08e23dc25023aac81f2b40e35785e01de64dd171/header.jpg?t=1789050056",
       "verified": true
     },
     "dishonoured-1-49": {
       "appid": 205100,
       "name": "Dishonored",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/header.jpg?t=1750785977",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/08e23dc25023aac81f2b40e35785e01de64dd171/header.jpg?t=1789050056",
       "verified": true
     },
     "dishonoured 2": {
@@ -2309,13 +2447,13 @@
     "skyrim": {
       "appid": 489830,
       "name": "The Elder Scrolls V: Skyrim Special Edition",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1753715778",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
       "verified": true
     },
     "skyrim-63": {
       "appid": 489830,
       "name": "The Elder Scrolls V: Skyrim Special Edition",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1753715778",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
       "verified": true
     },
     "orwell": {
@@ -2849,13 +2987,13 @@
     "trucking simulator 2": {
       "appid": 227300,
       "name": "Euro Truck Simulator 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1773641450",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/4f6ff00d3732ed0da2e28a4e7182f0036df8ab90/header_alt_assets_8.jpg?t=1790001194",
       "verified": true
     },
     "trucking-simulator-2-108": {
       "appid": 227300,
       "name": "Euro Truck Simulator 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1773641450",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/4f6ff00d3732ed0da2e28a4e7182f0036df8ab90/header_alt_assets_8.jpg?t=1790001194",
       "verified": true
     },
     "card hunter": {
@@ -3233,13 +3371,13 @@
     "farming simulator 2015": {
       "appid": 313160,
       "name": "Farming Simulator 15",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313160/header.jpg?t=1593434409",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313160/header.jpg?t=1786442327",
       "verified": true
     },
     "farming-simulator-2015-141": {
       "appid": 313160,
       "name": "Farming Simulator 15",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313160/header.jpg?t=1593434409",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313160/header.jpg?t=1786442327",
       "verified": true
     },
     "farming simulator 2017": {
@@ -3257,13 +3395,13 @@
     "farming simulator 2019": {
       "appid": 787860,
       "name": "Farming Simulator 19",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/header.jpg?t=1674664652",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/header.jpg?t=1786447399",
       "verified": true
     },
     "farming-simulator-2019-143": {
       "appid": 787860,
       "name": "Farming Simulator 19",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/header.jpg?t=1674664652",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/header.jpg?t=1786447399",
       "verified": true
     },
     "evoland 1": {
