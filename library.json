@@ -1,8 +1,16 @@
 {
-  "version": 1790708141513,
-  "exportedAt": "2026-09-29T18:55:41.513Z",
+  "version": 1792860342939,
+  "exportedAt": "2026-10-24T16:45:42.939Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Tyr",
+      "rating": 8,
+      "date": "2026-10-24",
+      "feelings": "As someone who moderatley enjoyed Warthunder, I didnt expect to like Tyr as much as I did.  However, this game comes with player-oriented mechanics, really enjoyable gameplay, and a surprisingly balanced roster and map pool.",
+      "id": "tyr-mvmmr74p"
+    },
     {
       "status": "Plan to",
       "title": "ZERO PARADES: For Dead Spies",
