@@ -1,8 +1,16 @@
 {
-  "version": 1792860490716,
-  "exportedAt": "2026-10-24T16:48:10.716Z",
+  "version": 1792860587111,
+  "exportedAt": "2026-10-24T16:49:47.111Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Dropped",
+      "title": "Idle Wizard",
+      "rating": 6,
+      "date": "2026-10-24",
+      "feelings": "A fun game as far as Idle games go!  Good longevity, good her variety, and even though its free it doesnt shove paid stuff down your throat.",
+      "id": "idle-wizard-mvmmwfiv"
+    },
     {
       "status": "Completed",
       "title": "Scam With Your Friends",
