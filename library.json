@@ -1,8 +1,16 @@
 {
-  "version": 1792860758744,
-  "exportedAt": "2026-10-24T16:52:38.744Z",
+  "version": 1792860803402,
+  "exportedAt": "2026-10-24T16:53:23.402Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Plan to",
+      "title": "Look Outside",
+      "rating": null,
+      "date": null,
+      "feelings": null,
+      "id": "look-outside-mvmn12f6"
+    },
     {
       "status": "Completed",
       "title": "Desktop Explorer",
