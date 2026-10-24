@@ -1,8 +1,16 @@
 {
-  "version": 1792860655965,
-  "exportedAt": "2026-10-24T16:50:55.965Z",
+  "version": 1792860758744,
+  "exportedAt": "2026-10-24T16:52:38.744Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Desktop Explorer",
+      "rating": 7,
+      "date": "2026-09-01",
+      "feelings": "This game is a fun puzzle game with great music, story, and characters.  The horror aspect wasnt as deep as I would have liked it to be, but overall an enjoyable experience.",
+      "id": "desktop-explorer-mvmn03za"
+    },
     {
       "status": "Dropped",
       "title": "Wireworks",
