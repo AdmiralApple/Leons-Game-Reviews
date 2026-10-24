@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-29T18:56:31.434Z",
+  "generatedAt": "2026-10-24T16:46:16.655Z",
   "covers": {
+    "tyr": {
+      "appid": 2445260,
+      "name": "Tyr",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445260/81910762639b5117e737d2800f89502660ccf4c4/header_alt_assets_2.jpg?t=1792706932",
+      "verified": true
+    },
+    "tyr-mvmmr74p": {
+      "appid": 2445260,
+      "name": "Tyr",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445260/81910762639b5117e737d2800f89502660ccf4c4/header_alt_assets_2.jpg?t=1792706932",
+      "verified": true
+    },
     "zero parades for dead spies": {
       "appid": 2863680,
       "name": "ZERO PARADES: For Dead Spies",
@@ -1967,13 +1979,13 @@
     "drg survivor": {
       "appid": 2321470,
       "name": "Deep Rock Galactic: Survivor",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1787051272",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1790750403",
       "verified": true
     },
     "drg-survivor-21": {
       "appid": 2321470,
       "name": "Deep Rock Galactic: Survivor",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1787051272",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1790750403",
       "verified": true
     },
     "red dead redemption 2": {
@@ -2987,13 +2999,13 @@
     "trucking simulator 2": {
       "appid": 227300,
       "name": "Euro Truck Simulator 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/4f6ff00d3732ed0da2e28a4e7182f0036df8ab90/header_alt_assets_8.jpg?t=1790001194",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/d3c44cfff95e8223687121b05c80e594d35c4c53/header_alt_assets_9.jpg?t=1792055307",
       "verified": true
     },
     "trucking-simulator-2-108": {
       "appid": 227300,
       "name": "Euro Truck Simulator 2",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/4f6ff00d3732ed0da2e28a4e7182f0036df8ab90/header_alt_assets_8.jpg?t=1790001194",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/d3c44cfff95e8223687121b05c80e594d35c4c53/header_alt_assets_9.jpg?t=1792055307",
       "verified": true
     },
     "card hunter": {
