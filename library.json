@@ -1,8 +1,16 @@
 {
-  "version": 1792860587111,
-  "exportedAt": "2026-10-24T16:49:47.111Z",
+  "version": 1792860655965,
+  "exportedAt": "2026-10-24T16:50:55.965Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Dropped",
+      "title": "Wireworks",
+      "rating": 5,
+      "date": "2026-10-24",
+      "feelings": "Good gameplay idea fairly well executed.  Not sure why youd ever pick a direction module other than something circular though.",
+      "id": "wireworks-mvmmxwnt"
+    },
     {
       "status": "Dropped",
       "title": "Idle Wizard",
