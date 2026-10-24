@@ -1,8 +1,16 @@
 {
-  "version": 1792860342939,
-  "exportedAt": "2026-10-24T16:45:42.939Z",
+  "version": 1792860490716,
+  "exportedAt": "2026-10-24T16:48:10.716Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Scam With Your Friends",
+      "rating": 5,
+      "date": "2026-10-24",
+      "feelings": "Decent friendslop game.  fun use of AI mechanics in-game, but once you know the cheese, its easy to scam the AI most of the time on multiple methods.",
+      "id": "scam-with-your-friends-mvmmud5i"
+    },
     {
       "status": "Completed",
       "title": "Tyr",
