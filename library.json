@@ -1,8 +1,16 @@
 {
-  "version": 1792860803402,
-  "exportedAt": "2026-10-24T16:53:23.402Z",
+  "version": 1792860897399,
+  "exportedAt": "2026-10-24T16:54:57.399Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Dropped",
+      "title": "Mewgenics",
+      "rating": 7,
+      "date": "2026-10-24",
+      "feelings": "Another fun and well made game by Edmund.  has a lot of good mechanics and well done longevity design for a rougelite turn based tile based strategy.  May come back to it one day, but it just slowed being fun past the desert area, as most overarching upgrades slowed to a crawl.",
+      "id": "mewgenics-mvmn32yf"
+    },
     {
       "status": "Plan to",
       "title": "Look Outside",
