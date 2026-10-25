@@ -1,6 +1,6 @@
 {
-  "version": 1792944631297,
-  "exportedAt": "2026-10-25T16:10:31.297Z",
+  "version": 1792944655957,
+  "exportedAt": "2026-10-25T16:10:55.957Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -118,7 +118,7 @@
     {
       "status": "Completed",
       "title": "Melvor Idle",
-      "rating": 7,
+      "rating": 5,
       "date": "2026-08-28",
       "feelings": "Not bad as far as idle games go.  Great if youre also a Runescape-like fan.",
       "id": "melvor-idle-mtdtc2x0"
