@@ -1,6 +1,6 @@
 {
-  "version": 1792944623121,
-  "exportedAt": "2026-10-25T16:10:23.121Z",
+  "version": 1792944631297,
+  "exportedAt": "2026-10-25T16:10:31.297Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -62,7 +62,7 @@
     {
       "status": "Dropped",
       "title": "Wireworks",
-      "rating": 5,
+      "rating": 4,
       "date": "2026-10-24",
       "feelings": "Good gameplay idea fairly well executed.  Not sure why youd ever pick a direction module other than something circular though.",
       "id": "wireworks-mvmmxwnt"
@@ -86,7 +86,7 @@
     {
       "status": "Completed",
       "title": "Tyr",
-      "rating": 8,
+      "rating": 7,
       "date": "2026-10-24",
       "feelings": "As someone who moderatley enjoyed Warthunder, I didnt expect to like Tyr as much as I did.  However, this game comes with player-oriented mechanics, really enjoyable gameplay, and a surprisingly balanced roster and map pool.",
       "id": "tyr-mvmmr74p"
