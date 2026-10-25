@@ -1,8 +1,16 @@
 {
-  "version": 1792860935758,
-  "exportedAt": "2026-10-24T16:55:35.758Z",
+  "version": 1792944262399,
+  "exportedAt": "2026-10-25T16:04:22.399Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Divinity: Original Sin 2",
+      "rating": 10,
+      "date": "2026-10-25",
+      "feelings": "A larian studio classic.  Great story, great gameplay, VERY well made combat.",
+      "id": "divinity-original-sin-2-mvo0pvsg"
+    },
     {
       "status": "Plan to",
       "title": "loddlenaut",
