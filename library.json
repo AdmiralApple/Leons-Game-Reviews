@@ -1,6 +1,6 @@
 {
-  "version": 1792944931130,
-  "exportedAt": "2026-10-25T16:15:31.130Z",
+  "version": 1792945197868,
+  "exportedAt": "2026-10-25T16:19:57.868Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -1975,7 +1975,7 @@
       "id": "there-is-no-game-wrong-direction-94",
       "title": "There is No Game: Wrong Direction",
       "status": "Completed",
-      "rating": 8,
+      "rating": 7,
       "date": "2024-07-23",
       "feelings": "A cute point and click game going through a few genres and poking fun at them.  A little short, but a novel experience none-theless"
     },
