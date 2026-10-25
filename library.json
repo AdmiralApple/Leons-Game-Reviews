@@ -1,6 +1,6 @@
 {
-  "version": 1792944655957,
-  "exportedAt": "2026-10-25T16:10:55.957Z",
+  "version": 1792944675448,
+  "exportedAt": "2026-10-25T16:11:15.448Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -590,7 +590,7 @@
     {
       "status": "Completed",
       "title": "Knights End",
-      "rating": 5,
+      "rating": 4,
       "date": "2026-06-08",
       "feelings": "Fun with friends, but the loop gets old quick",
       "id": "knights-end-mq5n1vik"
