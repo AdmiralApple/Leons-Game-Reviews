@@ -1,6 +1,6 @@
 {
-  "version": 1792944607120,
-  "exportedAt": "2026-10-25T16:10:07.120Z",
+  "version": 1792944623121,
+  "exportedAt": "2026-10-25T16:10:23.121Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -38,7 +38,7 @@
     {
       "status": "Dropped",
       "title": "Mewgenics",
-      "rating": 7,
+      "rating": 6,
       "date": "2026-10-24",
       "feelings": "Another fun and well made game by Edmund.  has a lot of good mechanics and well done longevity design for a rougelite turn based tile based strategy.  May come back to it one day, but it just slowed being fun past the desert area, as most overarching upgrades slowed to a crawl.",
       "id": "mewgenics-mvmn32yf"
@@ -70,7 +70,7 @@
     {
       "status": "Dropped",
       "title": "Idle Wizard",
-      "rating": 6,
+      "rating": 5,
       "date": "2026-10-24",
       "feelings": "A fun game as far as Idle games go!  Good longevity, good her variety, and even though its free it doesnt shove paid stuff down your throat.",
       "id": "idle-wizard-mvmmwfiv"
@@ -78,7 +78,7 @@
     {
       "status": "Completed",
       "title": "Scam With Your Friends",
-      "rating": 5,
+      "rating": 4,
       "date": "2026-10-24",
       "feelings": "Decent friendslop game.  fun use of AI mechanics in-game, but once you know the cheese, its easy to scam the AI most of the time on multiple methods.",
       "id": "scam-with-your-friends-mvmmud5i"
