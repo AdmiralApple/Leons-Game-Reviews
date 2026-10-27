@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T16:20:36.097Z",
+  "generatedAt": "2026-10-27T02:50:18.623Z",
   "covers": {
+    "coupling": {
+      "appid": 3694470,
+      "name": "Coupling",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694470/04031e0677e230b8c70f00af0418e97c366e5dec/header.jpg?t=1777237680",
+      "verified": true
+    },
+    "coupling-mvq37jej": {
+      "appid": 3694470,
+      "name": "Coupling",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694470/04031e0677e230b8c70f00af0418e97c366e5dec/header.jpg?t=1777237680",
+      "verified": true
+    },
     "sludgineers": {
       "appid": 4073860,
       "name": "Sludgineers",
@@ -1703,13 +1715,13 @@
     "psyconauts 1": {
       "appid": 3830,
       "name": "Psychonauts",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1787713000",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1793063134",
       "verified": true
     },
     "psyconauts-1-mph7t5bp": {
       "appid": 3830,
       "name": "Psychonauts",
-      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1787713000",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1793063134",
       "verified": true
     },
     "he is coming": {
