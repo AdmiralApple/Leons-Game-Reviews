@@ -1,6 +1,6 @@
 {
-  "version": 1793069378705,
-  "exportedAt": "2026-10-27T02:49:38.705Z",
+  "version": 1793196756423,
+  "exportedAt": "2026-10-28T14:12:36.423Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -14,7 +14,7 @@
     {
       "status": "Completed",
       "title": "Sludgineers",
-      "rating": 6,
+      "rating": 5,
       "date": "2026-10-25",
       "feelings": "A fun game and experience, but far too short at only 3 hours of gameplay.",
       "id": "sludgineers-mvo0x9s6"
