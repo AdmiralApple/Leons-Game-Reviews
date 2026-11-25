@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T18:46:52.289Z",
+  "generatedAt": "2026-11-25T18:48:12.767Z",
   "covers": {
+    "gladio mori": {
+      "appid": 2689120,
+      "name": "Gladio Mori",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689120/3565dac154b7c7bbd22f6146d8733af16eebe6f8/header.jpg?t=1789992251",
+      "verified": true
+    },
+    "gladio-mori-mwwh6sze": {
+      "appid": 2689120,
+      "name": "Gladio Mori",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689120/3565dac154b7c7bbd22f6146d8733af16eebe6f8/header.jpg?t=1789992251",
+      "verified": true
+    },
     "birds of war": {
       "appid": 4223300,
       "name": "Birds of War",
