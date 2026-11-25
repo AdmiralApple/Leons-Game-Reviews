@@ -1,8 +1,16 @@
 {
-  "version": 1795632368658,
-  "exportedAt": "2026-11-25T18:46:08.658Z",
+  "version": 1795632437494,
+  "exportedAt": "2026-11-25T18:47:17.494Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
+    {
+      "status": "Completed",
+      "title": "Gladio Mori",
+      "rating": 8,
+      "date": "2026-11-25",
+      "feelings": "Fun gameplay, good balance, modability, multiplayer.  This is a fun phyiscs based fighter that actually feels fun to play.",
+      "id": "gladio-mori-mwwh6sze"
+    },
     {
       "status": "Dropped",
       "title": "Birds of War",
