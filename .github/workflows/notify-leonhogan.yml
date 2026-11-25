@@ -1,0 +1,34 @@
+name: Rebuild leonhogan.com
+
+# leonhogan.com/reviews/ is a copy of this site. Tell it to rebuild whenever
+# the library changes (after Steam covers update) or the app itself changes.
+on:
+  workflow_run:
+    workflows: [Update Steam covers]
+    types: [completed]
+  push:
+    branches: [master]
+    paths: [index.html]
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  notify:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion != 'cancelled'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger leonhogan.com rebuild
+        env:
+          TOKEN: ${{ secrets.LEONHOGAN_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::warning::LEONHOGAN_DISPATCH_TOKEN secret is not set, so leonhogan.com will only pick this up on its daily rebuild."
+            exit 0
+          fi
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/AdmiralApple/LeonHogan.com/dispatches \
+            -d '{"event_type":"reviews-updated"}'
+          echo "Asked leonhogan.com to rebuild."
