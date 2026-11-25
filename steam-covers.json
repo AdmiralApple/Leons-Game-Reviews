@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T18:48:12.767Z",
+  "generatedAt": "2026-11-25T18:49:23.365Z",
   "covers": {
+    "finals week": {
+      "appid": 4715160,
+      "name": "Finals Week ✍🏻",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/48822603a66cebb6299d01b0b4ee551f7cc8763f/header_alt_assets_0.jpg?t=1794601230",
+      "verified": true
+    },
+    "finals-week-mwwh8n3m": {
+      "appid": 4715160,
+      "name": "Finals Week ✍🏻",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/48822603a66cebb6299d01b0b4ee551f7cc8763f/header_alt_assets_0.jpg?t=1794601230",
+      "verified": true
+    },
     "gladio mori": {
       "appid": 2689120,
       "name": "Gladio Mori",
