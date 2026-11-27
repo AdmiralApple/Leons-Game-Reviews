@@ -1,6 +1,6 @@
 {
-  "version": 1795803875789,
-  "exportedAt": "2026-11-27T18:24:35.789Z",
+  "version": 1795803959566,
+  "exportedAt": "2026-11-27T18:25:59.566Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -950,7 +950,7 @@
     {
       "status": "Completed",
       "title": "(the) Gnorp Apologue",
-      "rating": 8,
+      "rating": 7,
       "date": "2024-01-03",
       "feelings": "A fantastic incrimental game!  Cute graphics and satisfying gameplay.",
       "id": "the-gnorp-apologue-mpxwp2nu"
