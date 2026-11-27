@@ -1,6 +1,6 @@
 {
-  "version": 1795803959566,
-  "exportedAt": "2026-11-27T18:25:59.566Z",
+  "version": 1795805338260,
+  "exportedAt": "2026-11-27T18:48:58.260Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -982,7 +982,7 @@
     {
       "status": "Completed",
       "title": "King of the Bridge",
-      "rating": 8,
+      "rating": 7,
       "date": "2024-03-19",
       "feelings": "A GREAT parady chess game with cute graphics and funny puzzle elements, alongside multiple endings.  very well made",
       "id": "king-of-the-bridge-mpxwjrla"
@@ -2335,7 +2335,7 @@
       "id": "handshakes-135",
       "title": "Handshakes",
       "status": "Completed",
-      "rating": 5,
+      "rating": 4,
       "date": "2023-01-22",
       "feelings": "Neat little showcase of a fun puzzle game"
     },
