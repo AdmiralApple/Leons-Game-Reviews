@@ -1,6 +1,6 @@
 {
-  "version": 1795805338260,
-  "exportedAt": "2026-11-27T18:48:58.260Z",
+  "version": 1795805451795,
+  "exportedAt": "2026-11-27T18:50:51.795Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -1727,7 +1727,7 @@
       "id": "maize-58",
       "title": "Maize",
       "status": "Completed",
-      "rating": 5,
+      "rating": 4,
       "date": "2017-12-24",
       "feelings": "What a weird game.  Neat, but weird"
     },
