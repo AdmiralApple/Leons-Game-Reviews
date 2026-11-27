@@ -1,6 +1,6 @@
 {
-  "version": 1795632523183,
-  "exportedAt": "2026-11-25T18:48:43.183Z",
+  "version": 1795803600679,
+  "exportedAt": "2026-11-27T18:20:00.679Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -1038,7 +1038,7 @@
     {
       "status": "Completed",
       "title": "Rabbit and Steel",
-      "rating": 7,
+      "rating": 6,
       "date": "2026-04-07",
       "feelings": "Unique kind of game I hadnt seen before, executed pretty well.  No real problems with the game: cute graphics, fun with friends, can get good builds.  Enjoyed the time spent.",
       "id": "rabbit-and-steel-mpxoaix4"
