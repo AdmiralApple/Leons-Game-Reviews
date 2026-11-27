@@ -1,6 +1,6 @@
 {
-  "version": 1795803870586,
-  "exportedAt": "2026-11-27T18:24:30.586Z",
+  "version": 1795803875789,
+  "exportedAt": "2026-11-27T18:24:35.789Z",
   "note": "Committed from the Leon's Game Reviews app.",
   "games": [
     {
@@ -1519,7 +1519,7 @@
       "id": "art-of-reflection-31",
       "title": "Art of reflection",
       "status": "Completed",
-      "rating": 9,
+      "rating": 8,
       "date": "2025-01-12",
       "feelings": "Great puzzle game, a little short, but enjoyable."
     },
